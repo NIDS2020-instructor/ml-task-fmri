@@ -1,0 +1,77 @@
+[environment]
+cpu_count = 48
+exec_docker_version = "20.10.1"
+exec_env = "fmriprep-docker"
+free_mem = 7.9
+overcommit_policy = "heuristic"
+overcommit_limit = "50%"
+nipype_version = "1.5.1"
+templateflow_version = "0.6.3"
+version = "20.2.1"
+
+[execution]
+bids_dir = "/data"
+bids_database_dir = "/scratch/20210308-193747_22feced0-cbef-42c1-80f4-b7084bf53336/bids_db"
+bids_description_hash = "271194d1a661c77fe4b6bd2eb74e68de9261de2d6b288f2dcafcc0470008c9b7"
+boilerplate_only = false
+sloppy = false
+debug = []
+fmriprep_dir = "/out"
+fs_license_file = "/opt/freesurfer/license.txt"
+fs_subjects_dir = "/out/sourcedata/freesurfer"
+layout = "BIDS Layout: .../data | Subjects: 6 | Sessions: 0 | Runs: 71"
+log_dir = "/out/logs"
+log_level = 25
+low_mem = false
+md_only_boilerplate = false
+notrack = false
+output_dir = "/out"
+output_layout = "bids"
+output_spaces = "MNI152NLin2009cAsym:res-native"
+reports_only = false
+run_uuid = "20210308-193747_22feced0-cbef-42c1-80f4-b7084bf53336"
+participant_label = [ "1", "2", "3", "4", "5", "6",]
+templateflow_home = "/home/fmriprep/.cache/templateflow"
+work_dir = "/scratch"
+write_graph = true
+
+[workflow]
+anat_only = false
+aroma_err_on_warn = false
+aroma_melodic_dim = -200
+bold2t1w_dof = 6
+bold2t1w_init = "register"
+cifti_output = false
+fmap_bspline = false
+force_syn = false
+hires = true
+ignore = []
+longitudinal = false
+medial_surface_nan = false
+regressors_all_comps = false
+regressors_dvars_th = 1.5
+regressors_fd_th = 0.5
+run_reconall = true
+skull_strip_fixed_seed = false
+skull_strip_template = "OASIS30ANTs"
+skull_strip_t1w = "force"
+spaces = "MNI152NLin2009cAsym:res-native"
+use_aroma = false
+use_syn_sdc = false
+
+[nipype]
+crashfile_format = "txt"
+get_linked_libs = false
+nprocs = 36
+omp_nthreads = 8
+plugin = "MultiProc"
+resource_monitor = false
+stop_on_first_crash = false
+
+[seeds]
+master = 59436
+ants = 27015
+
+[nipype.plugin_args]
+maxtasksperchild = 1
+raise_insufficient = false

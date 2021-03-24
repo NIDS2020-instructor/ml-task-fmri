@@ -1,0 +1,8827 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 3 0 R 4 0 R 5 0 R 6 0 R ]
+/Type /Pages
+/Count 4
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Contents 8 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+4 0 obj
+<<
+/Contents 12 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+5 0 obj
+<<
+/Contents 13 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+6 0 obj
+<<
+/Contents 14 0 R
+/Parent 1 0 R
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Annots [ 15 0 R ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 16285
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 63.83488 0 Td (MRIQC: functional MRI group report) Tj T* -63.83488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Date and time: 2016-09-25, 11:43.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MRIQC version: 0.8.6a7.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Failed workflows: none.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Image parameters:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+1 1 1 rg
+n 0 570 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 540 469.8898 -30 re f*
+1 1 1 rg
+n 0 510 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 480 469.8898 -30 re f*
+1 1 1 rg
+n 0 450 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 420 469.8898 -30 re f*
+1 1 1 rg
+n 0 390 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 360 469.8898 -30 re f*
+1 1 1 rg
+n 0 330 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 300 469.8898 -30 re f*
+1 1 1 rg
+n 0 270 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 240 469.8898 -30 re f*
+1 1 1 rg
+n 0 210 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 570 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 27.15748 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .79374 0 Td (Subje) Tj T* 8.895 0 Td (ct) Tj T* -9.68874 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.15748 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 27.15748 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.35374 0 Td (Sessi) Tj T* 6.665 0 Td (on) Tj T* -8.01874 0 Td ET
+Q
+Q
+q
+1 0 0 1 84.31496 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 127.8481 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 54.75407 0 Td (Run) Tj T* -54.75407 0 Td ET
+Q
+Q
+q
+1 0 0 1 224.1631 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 55.12711 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 17.83855 0 Td (Size) Tj T* -17.83855 0 Td ET
+Q
+Q
+q
+1 0 0 1 291.2902 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 105.4724 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 34.67122 0 Td (Spacing) Tj T* -34.67122 0 Td ET
+Q
+Q
+q
+1 0 0 1 408.7627 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 55.12711 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 24.78355 0 Td (#) Tj T* -21.67 0 Td (Timepoints) Tj T* -3.113555 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 570 l S
+n 78.31496 0 m 78.31496 570 l S
+n 218.1631 0 m 218.1631 570 l S
+n 285.2902 0 m 285.2902 570 l S
+n 402.7627 0 m 402.7627 570 l S
+n 0 570 m 469.8898 570 l S
+n 0 0 m 0 570 l S
+n 469.8898 0 m 469.8898 570 l S
+Q
+Q
+ 
+
+endstream
+endobj
+9 0 obj
+<<
+/F2 10 0 R
+/F1 11 0 R
+>>
+endobj
+10 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+>>
+endobj
+11 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+endobj
+12 0 obj
+<<
+/Length 16198
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 660 l S
+n 78.31496 0 m 78.31496 660 l S
+n 218.1631 0 m 218.1631 660 l S
+n 285.2902 0 m 285.2902 660 l S
+n 402.7627 0 m 402.7627 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+13 0 obj
+<<
+/Length 16198
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 660 l S
+n 78.31496 0 m 78.31496 660 l S
+n 218.1631 0 m 218.1631 660 l S
+n 285.2902 0 m 285.2902 660 l S
+n 402.7627 0 m 402.7627 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+14 0 obj
+<<
+/Length 5708
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 555.0236 cm
+1 1 1 rg
+n 0 210 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 210 l S
+n 78.31496 0 m 78.31496 210 l S
+n 218.1631 0 m 218.1631 210 l S
+n 285.2902 0 m 285.2902 210 l S
+n 402.7627 0 m 402.7627 210 l S
+n 0 0 m 0 210 l S
+n 469.8898 0 m 469.8898 210 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .258735 Tw 12 TL /F1 10 Tf 0 0 0 rg (For details on the IQMs \(image quality metrics\) and further information on the enclosed plots, please read) Tj T* 0 Tw (the ) Tj 0 0 .501961 rg (user guide) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+15 0 obj
+<<
+/Rect [ 79.37291 525.0236 126.0629 537.0236 ]
+/Border [ 0 0 0 ]
+/Type /Annot
+/A <<
+/Type /Action
+/URI (http\072\057\057mriqc\056readthedocs\056org\057en\057latest\057userguide\056html)
+/S /URI
+>>
+/Subtype /Link
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000086 00000 n 
+0000000126 00000 n 
+0000000325 00000 n 
+0000000525 00000 n 
+0000000725 00000 n 
+0000000944 00000 n 
+0000000993 00000 n 
+0000017331 00000 n 
+0000017374 00000 n 
+0000017487 00000 n 
+0000017595 00000 n 
+0000033847 00000 n 
+0000050099 00000 n 
+0000055860 00000 n 
+trailer
+<<
+/Size 16
+/Root 7 0 R
+/Info 2 0 R
+>>
+startxref
+56093
+%%EOF
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 3 0 R 4 0 R 5 0 R 6 0 R 16 0 R 17 0 R ]
+/Type /Pages
+/Count 6
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Contents 8 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+4 0 obj
+<<
+/Contents 12 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+5 0 obj
+<<
+/Contents 13 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+6 0 obj
+<<
+/Contents 14 0 R
+/Parent 1 0 R
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Annots [ 15 0 R ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 16285
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 63.83488 0 Td (MRIQC: functional MRI group report) Tj T* -63.83488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Date and time: 2016-09-25, 11:43.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MRIQC version: 0.8.6a7.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Failed workflows: none.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Image parameters:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+1 1 1 rg
+n 0 570 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 540 469.8898 -30 re f*
+1 1 1 rg
+n 0 510 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 480 469.8898 -30 re f*
+1 1 1 rg
+n 0 450 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 420 469.8898 -30 re f*
+1 1 1 rg
+n 0 390 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 360 469.8898 -30 re f*
+1 1 1 rg
+n 0 330 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 300 469.8898 -30 re f*
+1 1 1 rg
+n 0 270 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 240 469.8898 -30 re f*
+1 1 1 rg
+n 0 210 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 570 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 27.15748 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .79374 0 Td (Subje) Tj T* 8.895 0 Td (ct) Tj T* -9.68874 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.15748 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 27.15748 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.35374 0 Td (Sessi) Tj T* 6.665 0 Td (on) Tj T* -8.01874 0 Td ET
+Q
+Q
+q
+1 0 0 1 84.31496 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 127.8481 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 54.75407 0 Td (Run) Tj T* -54.75407 0 Td ET
+Q
+Q
+q
+1 0 0 1 224.1631 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 55.12711 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 17.83855 0 Td (Size) Tj T* -17.83855 0 Td ET
+Q
+Q
+q
+1 0 0 1 291.2902 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 105.4724 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 34.67122 0 Td (Spacing) Tj T* -34.67122 0 Td ET
+Q
+Q
+q
+1 0 0 1 408.7627 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 55.12711 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 24.78355 0 Td (#) Tj T* -21.67 0 Td (Timepoints) Tj T* -3.113555 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 570 l S
+n 78.31496 0 m 78.31496 570 l S
+n 218.1631 0 m 218.1631 570 l S
+n 285.2902 0 m 285.2902 570 l S
+n 402.7627 0 m 402.7627 570 l S
+n 0 570 m 469.8898 570 l S
+n 0 0 m 0 570 l S
+n 469.8898 0 m 469.8898 570 l S
+Q
+Q
+ 
+
+endstream
+endobj
+9 0 obj
+<<
+/F2 10 0 R
+/F1 11 0 R
+>>
+endobj
+10 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+>>
+endobj
+11 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+endobj
+12 0 obj
+<<
+/Length 16198
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 660 l S
+n 78.31496 0 m 78.31496 660 l S
+n 218.1631 0 m 218.1631 660 l S
+n 285.2902 0 m 285.2902 660 l S
+n 402.7627 0 m 402.7627 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+13 0 obj
+<<
+/Length 16198
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 660 l S
+n 78.31496 0 m 78.31496 660 l S
+n 218.1631 0 m 218.1631 660 l S
+n 285.2902 0 m 285.2902 660 l S
+n 402.7627 0 m 402.7627 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+14 0 obj
+<<
+/Length 5708
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 555.0236 cm
+1 1 1 rg
+n 0 210 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sub-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.15748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.31496 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-objectviewing_run-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 224.1631 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (40 \327 64 \327) Tj T* (64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.2902 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.500 \327 3.750 \327 3.750) Tj T* ET
+Q
+Q
+q
+1 0 0 1 408.7627 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (121) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 39.15748 0 m 39.15748 210 l S
+n 78.31496 0 m 78.31496 210 l S
+n 218.1631 0 m 218.1631 210 l S
+n 285.2902 0 m 285.2902 210 l S
+n 402.7627 0 m 402.7627 210 l S
+n 0 0 m 0 210 l S
+n 469.8898 0 m 469.8898 210 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .258735 Tw 12 TL /F1 10 Tf 0 0 0 rg (For details on the IQMs \(image quality metrics\) and further information on the enclosed plots, please read) Tj T* 0 Tw (the ) Tj 0 0 .501961 rg (user guide) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+15 0 obj
+<<
+/Rect [ 79.37291 525.0236 126.0629 537.0236 ]
+/Border [ 0 0 0 ]
+/Type /Annot
+/A <<
+/Type /Action
+/URI (http\072\057\057mriqc\056readthedocs\056org\057en\057latest\057userguide\056html)
+/S /URI
+>>
+/Subtype /Link
+>>
+endobj
+16 0 obj
+<<
+/Parent 1 0 R
+/Contents 18 0 R
+/Type /Page
+/Resources 19 0 R
+/Group <<
+/CS /DeviceRGB
+/S /Transparency
+/Type /Group
+>>
+/MediaBox [ 0 0 841.68 360 ]
+/Annots [ ]
+>>
+endobj
+17 0 obj
+<<
+/Parent 1 0 R
+/Contents 85 0 R
+/Type /Page
+/Resources 86 0 R
+/Group <<
+/CS /DeviceRGB
+/S /Transparency
+/Type /Group
+>>
+/MediaBox [ 0 0 841.68 360 ]
+/Annots [ ]
+>>
+endobj
+18 0 obj
+<<
+/Length 20731
+/Filter /FlateDecode
+>>
+stream
+xúΩù…í$IrûÔıyc˚r$rDx‚ê#‰"ê–ÉE–Œ4|z˛üö«‚ÍYMT≤À”›√\MMw˝5æ˝√ó¯ˆ∑o·ÌÙˇ˙ﬂ~≠ˇ˚€/Aˇ˙ÒÀ(Ò“Ü˛ÛØˇôˇ€ˇˇw_æ¸˛ÀØ˛É¯˘-\fÏ≠ÙP«x˙Gô!Œ˙x˚#øıÎ›_ﬁª˚KjóVﬂb˙˘^µ®8Í•ˆñ.˛„√≈ö˛ΩûZˇΩ≠2≠U∆™œç˙‹®œµ˛zª˙•¥Kçµè¯¯sŒ≈¸ÚÂœÆÛ+?˛m∑¨ﬂ¸Úgø}˚’÷„·Ì∑øÈ‚€◊(îyâ9M{aΩî¿⁄˚£˛∑ÛÂO~˛Á¸›ˇÌ/¸·w?˝Â_˝Ìüæ˝ˆﬁ˛”oØØÌíJœ•<Æ‘πhÀ∏__+›ˇ˚ıJ«∏åVjéê<]rw˙Ûˇ˛õy^®ûπÃ>¶~Ëqù´∂éá?¨µ.º^lL„R≈<ìe∆rÈq¯Î˝_°:ÀmUOÑ“ÊnπŒ’µ‹˚∂ÂÓ/|`πm\rÍ≠?ø∑‹˘∏‹?ºéE¨„2ìΩd÷ãm’x˚üo?Ωmåﬂ˛ãÓ_˝˘ˇÚ˜˝√˚ıüΩ˝ıœ<\_˛˚óﬂº˝a{”Û3áã2œÔ9{˘çB¯EæBõ"â∞H∫ækùíø˛qODQŒ8C∑-ZE»ÛÚH§^¶ˇΩ˛áû˛’ˇ¯·èø˚˙„ﬂˇÙœ?ø˝˘?}˘ˇ˚ˆÔL ¨2Ù?sˇΩ˜À'‰||ÓÈ“ë§˘üÒbæ§E≤òÊ•e—∑eûÄ~· ^ˇÓT©ÂfHíËªﬂ/üPÂÒπßKG™|‰G^R•∆KŒ©¥ö∫û∏q’w°Jó∞ò±µæ_˝Ú	Uü{∫t§ G~‰%UzæÑúG-ˆTIﬂç*≥_ Ã°∂˝ÇÔóO®Ú¯‹”•#U>Ú#/©2%ØsMEË	®íøURîπ0ã˛g∑‡áÀ>Uvœ=]:PÂC?Úä*)∂K…M¢ÖGå*ÂªQ•ÑÀòu‰º_˝Ú	Uü{∫t§ G~‰%UÚêπ7B
+z UÍw£JK2ÅzJiø‡˚Â™<>˜tÈHïè¸»K™‘yyñ∞ûÄ*ÌªQe˝Ïh1Ó|ø|Bï«Áû.©ÚëyIï/µÑnD£Jˇ^TŸÃ÷É˜‰—a›˘ËWÌæ¸‰EØæ5˝gIÀÍ’áéÎáÓÓø˛Í2S‚7ÂìÙièÆÎ7|‚OØl‘€}4íùw‘˙IfÈoﬁæi\ÚLr,ıè≤\‰î´Ï€vuíÀÚ©ˇu˜Øœ~{|¯ã\Ïe ÀÍ÷Ø◊‰÷*'≤¡ÜÁ-∑äı˝ˆ´ˇ∞õØ∑K¢Ö6¬úµÀõ	ÌèlÑÿSvn÷ﬂ[=äÉË£KØ5x/˛*RÀ(©À3¬ÇÔ]ˇúZåss∫å–dŒ§ô/N1ı(ñ
+≈{sºv´ØAoŒüíÜ{sπî&â-^M™iìR“:¶ªé,Z◊*if_´/ïwK˜æ0kõGmÚ˛Z—ã%´¨w≠ƒπWÃ2[â˙˛çr)∑<µÅﬁã„•◊®_µOn9∂“∫ª_õnñõ,ÜÂt&kZn˝¨µ◊1≈F…^-3I∑Ûπœwãﬂ‡±.6´vsìT9o!E«!œë[ä}ma≤¬RˆË¸5&›Zèb<¬E±ãUDÃÈÌaåó&`tQ¡ízê7€tŸ£h_¬îAó-ï∆»C<;õ˚âMü8ÊËyÌK≥eXƒßµV;ÀîW±®◊K!∫kñ±]u4DÑ`îú22ı†KËØ„2“hc‘ö⁄:Öbé°ﬂrŸ#â •Â:8•zµ¨‘± è“˝íãò)¥™}”Ÿ—ióñ—<>Õ2áFàA‘ŒoXµÙíSÚhßwı9•›äV∞»°˝Ïì∑Í.f”JGd°êö#©\)˝1Lmd¥3ŒS%[tn÷I‘ëÌ:1E<¢é∂PÂª"ò0XR¥/∑Ix¯Î:^⁄∂9JEzƒXs–É√è˘“£TJ∞CÆ7á6%∆FıñQ/ı3≥X˘◊≈•ZÑÀwUíV'5Ü1Ï˚t‡µ)≠∏ﬂó.vE$‚DuËRD¡íI)g¯]◊$¡“…é»aƒ)ó`…∆&íùˇˆKjbœR%∑l∑Eyw	'›ôy7Ï∆ëM-‰û}iÄ‰∑+'…1ÁL]*À[4:™F∂∑ˆM˙Â"qÍn…W}¢$¬¡Êò2˘•=}ô$°°s"qÉJ√H¡Në«±‹nÌ…\7g-Z,®CÊKmu	∂gcD˜≈˝2äÑø‡»ã =w‰…1—fÙQÁ0ˆ‘!—…xÒ(WEäéJ∆ä‡lK$±ù £NsË©háóV)«·k,|K"É⁄ã•eh7%hºÖ»ËSäw$· áŒ@Lèè¶N~ß°¿mS"D∂S^º§πƒUîp·ÕzoÕ©∫¸<•ÅÙ◊¨€¶H8…Ü–Yq†l©$PÃ,y!≥†6WÑä1¥]"wn6“L¡≤cí>\≤ﬁÓÎÃ†‰\´Nñ9"Æ;Y&°,à<|9.!7ƒ
+»¡¡—e∂Æ˚÷Iπ`Nä1ñfì	¨”ßΩv9? ïˆi:(≈Aì•“B*.◊È›Z∂ÏùﬁMñ$œ*UÁKç4K‘ﬂÂyò&ÖX1]≈6eÙD∂1-ÛÑtï˛·õ'ÈH≥VÕÏñ•°ˇ*—ï˙:s"nXBcC+Ò˜[îÓπÒCbG%£ıâbRÔ˚2
+Uí™JŸ1{à©|À\î√d‡É™Ñ©th◊¸s_æ…y…∑ˇ¡XZŒá».Á•‡z‰(A}Íºú<¸ˆ¯£Û2eÜ‘pA»Äµ©#™3*)‹7vâá„#Â,M◊Åó\:‡›-WH¢DfGlÀ|”Ø»»ŒΩ09¶áÑÑ…ÂuIóìÍÛ^,I"ÁB⁄KÊΩ—æMŒﬂ≈ª[ÜPìx–Gò÷Se∞ ¸snñ®D{9%kb 1:˜ñãºÜ,∆’…díO"º>¿'Üî·‘Oã©'r∂™GéÓí3˘£[…€fŸD#xª¢_20e˘[≥‰∫Œ≥åèŒ∞à»QPÊ_„¿ìîÌ-x_(£ZñíÏCCkü´Ù‰Õ«8æZJø	„æ\.<íõ≥zd$±£\@À˛ñüã”ÂÌâƒéú>Ÿk““∂‚i∆ÍæXTÊ„™4˛≤Ï≈rr «’;lJì#,K3±÷ÂSf©’ﬁºwG§<í∑`6"Záî®´ˇâ⁄p…ı>ìLñ±¥t“Y´8ôŒÌUSñPk#"÷$Ô%∑gÓiI{⁄∑òÎr–2'ùMÚv3KVáKzÅWÀÏ‘Kl¯áVLo:†`¥4|Üî∫ª6#êM‘!A.ÎLiŸ={ª®g≥v„f°π£r,•ΩªıÖaT)‡⁄2-ƒÜAÜ•+¥ŒÅ`§ÎajÖò|!÷.A˛∑l';\2“§¨´dèªÁÖé4A¬∫óﬂSd∂»1è8©Ëä+,kÃém ¨|Vùx\ÿ…z9À–çQ€/ÕÌæ€»◊	xh-˛÷éÀ…ı%”•§ö˙òˆÖú€—–T.3%â˚iÊ±x\B	ô-∑‹ó5’)Åj\*-‚eW>jWfò2w•¢„RN‚ê]!f°Æ0Ç ÿ[#S‡≥íNù<)¢4f∂î&s1M_Ú Ÿó–D∞∞vEBZÿpoíùBû “3K§·ÃU˜¨hRÆczΩâtπó3¸57πY“¨Zk∑edëB∫˛ˆ^ç›"›^ÜÈ˘iRèZçª˘∂r≥û‘ÚÙÂÕÈ‡∫oÊ,IèHR«TñÕ'Û∂ÚnñZ.]ﬁÇ<‚äb‚°ﬁö"Z>s0◊]∂V—π©ﬁ¶à5tV—˜y-©M∂_:˙‰`IéGt∏E'§¢≈œQû∑åÜ,ˆëCè¶ö•¬[Œ.èí¶ì≠©”_Lª»ì9UrÒ»°ì$∫±ÖÀ˝”9ëW,Ì‰q¥vMö{§ıçYÁù»°+we”Ç™%.≈%ŸOÙ95oZ0≥j6∞<X˘ô>óJmÀ##ËP◊¢µ¸Hƒ∆giY4Úh1ºà‰ä-Ù[‡„‚0ÃãXaSnÂê¡ÇT˜9…|_…Ÿh‘RC˙—ÛD‹	ŒÂ}ôÍ–·ïA8}3EVõ§"TXÍ∞I)ÍËrS1Î1R5dÅrld|Xó?8µ∏¯bœ%<$˘‚.A¥LI∑(ûÌ– Ó¿vıΩXIN_K„hYSé©´g°mE∫Ô≈ûÕÉë¬Õ¡éÉ?∞ÈV˝Ñˆ{∫6
+
+|&…ã˘C—Òñ'∫3Å”—∆Ωò	ù√’ë#Î∏⁄ﬂÍ©„?˚vxˆA{U!˘“‚Ÿ,/.P)πº}r:F®"^ﬁ¨q9IíS⁄®kz"ÌŸP≤Ùf∑l©˝·üöù€ß®)’"o3us:lõ¶w/{*¡*a"betˆÎ8πõﬁPØKñ»∂ëœ÷√Uj÷ANBV˛düÙ;:h≤-Ø·û√'J∑»$qd‚a Íí∑‘Ærg∑vZ≤Ø˝ø	±è∑ËÜ˝+πŒıçõ≈‰ﬁã˚•˝/πéïê•ÕÏÆ/,hqÖÏÙ®3˜˚íît'l∏ú–uÑ£ªÙÑl2∞ﬂìö ©ŒÕCîËŒ1-òT®ﬂ Ë-ÉLóx∫¢Ò±2•JÙ6ê`°¸Çá+b'Z‡“Õ´˙?ﬁM®ifáD˛V–5>ˇ'Ãh…u;UdÔ≤Àv~Ú‚Ù˙ï	ä8°:óﬁª”Eöøw)õ¥˘R“14ˇ¨H=À¬ó_…â]z†•eÑ…√È”¢ø≤íÂm&ó=§;¥	À{X—m≤Ä%uóó .e:"∏Öû21y©*˜fY«gÿLvQ™ï§Ç+=∫6π≥„e˘R2,∫¿ehÈWe\hœÔ¸—aZÁÓ,∑uÒZZ∂d0xÓ™≈{⁄Iöa˘€wYèÿ§∂ºÈ›À…ïÚKqn&≤ûìmWtv™X≈ﬂ√rI˙vπ’¬r£òØ$ó˘BjNà∂Ö“®:≥Ï…	:Ò~%ˇ»äÂu≠w¬%t\%¸À¥hê¥p*2%OòT&ï^ç˘∏»<(∫….˜c•Í∏6ë˘;RI]ÇÁñ=úZ$l{€“ƒÅ/®Õ}µ˛>:âBú#˘ä¯V˝D÷ƒÄ2uﬁL≈ÀÁJ8˚-ıIfø¬+S`ƒ‰7µr“¯?2-ë⁄'Á◊°Lª∆”p¥§â+òà-V7yi+Ûß*ƒΩWK∏‡–5˘⁄ñíY&Ò‡
+19ÂıDRüÌü8%-_‡âÒ$áö¨éi:<ê`%y";í>àÛJìKmvñ¯N¬B∆¸€*y&â7\Õ2≠zAb¥f´BëŒä({_À‚⁄ä=rﬁÏù0Ÿ~ÆıÉÌÀ∑IªZîâîˆ &Â≠∏¡F]È9âØ*„À/©‰…dK	.=õ‰¿èÏÀQqxCÏüÃœ*√S~πG8Ÿ0¨Äø√s)gÈwπ¬íí."NÑ†É'¢	⁄JÂ»
+ì)9±b$™[ºu@;È>Òßï~\H≤H>Â‡ãF	Xâ
+iàïYôí2∫Ú\lW‡$Êì‡
+ıtO!°íÿH"õÔF"«XOÖ%6ô0Á¶≤$fæ˘“†í˙ñ∑m56T_N‚'vGì`‘	Ëa«õà'ÔÑøgï~4È´î˚âô"’IÎôZ∆+ÓT—¯Êg<È€ÿb+sà£FÍ˝ˆ_‡»‘G‰PIvÛZŒ<ôìáﬂ~L∆–#SVÜÒ»∑Tı
+K»Ëﬂ∂6}SYÑëx£}ıêËñªóÆæ^ﬁÀŸ“8÷Í6Ô∫ˆ‡æπPêdæõ&À	3Î·˘^ô™RDÅc[˘6π çÇ!Ô≈I¨≠oú§`–∆Û»Ÿ›,˚⁄Ù¬Ããñ˜Dpo∆Oâ¶B&ìÜ+i8◊ΩõΩ◊ÊR2ì9ì'™ÈQ£Bí79ÁˆÖƒ4WTﬂ#G0÷s€Ÿe∞ÄØÜŸÓ^ŸÚëøÑDƒÜÖrØB…[¥Ë!icïEÑ†OÚ	=H¢6Ã…Â}í1≤G‹ÖP+D•âX#õ«+EZ7è1E=1ä›À!ƒI∫∆.Ú^´#≥”Ê ¨≥‰‹™√G®5fÌã≈R»%ë⁄wÓ%Ÿ@HFbΩô,ñue„gÔféaÀ¶≈3©írgÃQ$“‰⁄âÌÒüë√=÷Ëöﬁæ)	àîúÎó(&©Õ€Bi#îÕ ˝b÷S¶‰eóÃç8éT¸oã≤Íä0ßªj´ºKä°$¨	òJ}X—í«•À„\«Õ5	ƒª+(ñ”«I|Ö∫Ö¿ƒY≤¢ΩM§&KﬁÖ›‚¯RRu)πﬂh¡≠Z÷@61.ª«ÙñåŸ„Ö!ï=⁄FL—iÂQ%ª«Ö»v$Ö˙ÊÀÀË°À–#Eå$˛hõ[Âí≤&ë˜+•&3°‡1ã≠Ñö 	¡[¯˙∞ÏJÚM™4n-Ÿ2≤∑ív!lÂêóÚVÈwÀTªø7kœ	‘¬Qi:≈—£6·\ù&±µâ&©äÜ¢˜Â«‘75Dølµ‰mÀé˜^Lí,¬ò#∑Ì¥…‰
+SK˜9d©áJú`ãìÃÓ:QJ/≥…ãù
+ûLn.TΩã»?¨)ÂŸÈÜLπ∏î„Ê:)£™´53–7zwO8y’‚Qà÷”º’.ïuK2 W§ª¢%}¶«Ú7(d∞tìyòI6´À§®-π∫ùVªU≠%»⁄˜ó‹∞ÇqêÂ@RNïòœ˛I÷ïd¿Vá-Õ!]AKÆ{≤(Æ5Oæ¨#1ÂÅÓ¶$QKöá lGé;#ÚπNÃ+⁄YÖ+ÖàÙK√#3¬¥‡Í˜∫1ù∂c÷t*‘≈
+RØ2yñ7”B@«y_(%∞S≈≈}†vâ‹∆…©"0!]añ{‘Ê…∞∫˘=G2ìßOí_À/Én“ú\	FmπÙÂ'˝≠‡È¸’ú€â(’~JídÚ|Õç∞|$.ﬁÌUb|ê#¶àWLUT°PÃπ∂Åì◊tÂ„ô¸€ô-&û‘2˚cô|§[\·—µH≠nb	y◊≈-Æp\2ô©√ç≠…_∫G†.CF6ƒJÎkEÎ·c§…É¸Ä*;¬¢ó≤øµÓTN¥~è‘@„vÎbÇ…u˚|›Çø%4)däw˜†è[>Zﬁ"Ú‚ÍHrz\ˆo~	ÑƒÍ˘˘F(	jõ‹{tÙ%í[èù<€ïH‚ˆÃ7ÇIà….5-Á‡°#»πjmRÿ:≠ˆ^C	hO®YCßú 5§ƒÔè–©äìtrvÎuÆÆıﬁˇ∞≠w·ÎÌﬂøı]_d\E√†%ûú)ÈÇÀw–ﬁU[À√÷Ç^/8“â5∫ )ÌlâÁıVŸìÙ∫Ì∞%º´kΩ˜?lÎ›_¯¿zk#U∂Ó˜÷;◊˚á7Á†¸Ç.√/¥‡}Ï»ΩáúããNáóπØ?iCú¥Kı= Ñ!\ˆPﬂÉEÇÙqµÎﬂÔê‚˙¿”•N_˚ä•q‚ùıªì `ªØˆzÂ2‹r.ÓHÒÓÎ_ëc4íi7éàﬂü#‰W^v|ΩpNå˚#œ◊IÒﬁ´_"•JÓ/ﬁ	Ò›˘BN˘≈‡{ÓÀΩ^yá˜áúã;bº˚˙W‰hXåwIëæ?_l“ˇ—(9#¬¶â&À˝”ΩWΩ¯‡cÉv∫ÔˇæE˚·GØm⁄˘Ém⁄Ô~ÍOÁ˛ﬁ°˝A-srÁ¡ZµøeC√Ê_N;Æøµ]˚ÿÎ}˜ìd{§\¨ÙŸﬂR!:#∑'Ùõ_UvñæÏáNèKñå÷sFF…πy¶‚¢«πLw˘Ú2„oÂÂ‡»èç"ﬁ≠äª„+ﬁÕ„≤2©mn%Øìê¡=π|\?<yÄ6m,µ‰kL≤¢˙˙)Á]:éq¥‹rºŒÀﬁŸ’uh∑8àúb*òÎ…*b%D-ß»r©•–¿öK∫LírÈk¬,—Hî“}ıYƒ#]Ï´FÔV=Ωª][ﬁ®€lT|≠˝“3≠˚/∑‹º‰’¨s•J
+^u(ﬁ´ÂHYû-≠˘¢Ü…¯/.N/}5aË·Aoë∂qØ‹Ë∫™iÜ•∫œx—DhçﬂZ…“StÚÖ≤À'1Ω6∑NbmMØWtøÌ£\™i])D≠:èô]Æ÷L9◊ññë;O]Ñ«ODCq2"k´+†DB`˘•›Ø§^F°,ºÖk9^± …i¨⁄hÍ¬\!æ@æDKÎªRêÕz…◊‘,∂©≈Ωª ◊Ë3êg˛fR.ïFgÖø„å.~⁄ÓaX?ÙÓgãé¥2'„©òÕ˚.ehãTkî‘S)–÷Ëu∏Ñ^{
+uÛ÷°íHÚ◊·›ﬂ‰:Ön%0…∫©ö{Ëà€/:QÜO‘Iæ\-w]!·DœëﬁE¬÷ä“»
+≈ΩèDÃk'2@ ∂í¡°Ü‚ﬂúÀÏ‘ê“gÛ™ôÚËﬁ›Ì‘VBÆ5øuÌ#∞ÇÙá∏˚hÚ◊cZ;QÛGØò˜ïY"[¨≠˜çº:ƒJtXûÑaëﬂƒëÖ~íÂ^∆q<í~çZ˚¥ÍÅ®ånÒV≈wQ≥È≈%›
+§Zäô˙qó°¨0£—SlE=øéÿ…YoÙÚ£„VŸ¬ 7s¢Ó„ä {ºv}—8HÚ˙Î»òå◊ºZ!€98ŒŒÕ“a∫óÑ^ﬁ˙ÂÄåH1zÙÄ˜Çò~‘E<Í∆¨› óPôäZ)?√5§Y¶–“Ó-:X˜x ∂Â©p¨>ﬁîÚ4ißXÈ{X»x◊)ƒ1h÷V?Ti¬∑'íO˙¢»AêBÍ$Â†ïO/ôÄá?Bh´8µRyu+l9ÏKN`ƒ¥/EÎÆ.Î—%[±≠ÚRKÙUÄ\ëºN@««|hjá|+Œ>XDRI¥@ÖB:.S®‡[‘aÎ@ï≈M˙–é"≈5`)§¸©vµd !—pÂRÑfdÈDl&„r:B¥?'*/ô∫mŸ1øh∆ßv”#wÁˆ)+¨‚≈Ny@ΩïJ=€}M´å´/6R¶sì}[N¬ΩÉi€-É>Ëﬁ3≈ÍºX∆àN-ÈÎ±…kï÷;a Q86W)€=@˘ı^›I≠u:6ïûPQ„Ìﬁøö.ôH]\ÜS%33-ï°¯B5ô9ÆØLbZ›˘ÔqC9¨cA≠,j®•˘s{‰Í[—∑˘7ü⁄—-jË64íƒ˝Ω—>Àÿ‹¯´¸õ$CD“µn“PäAB˙zéÍÅ˛íú‚ÿµ[dü;EøŒ›’`ó" ÿ±v∆∏n’·V¿uÙ.:k¨sRﬂ
+™§∑f„`£Uj5áíCÍWﬁ›ﬂ≠µÙ*ôïÊá
+&ÉˇÖÖwœBÒìÂ	≥ıC‹Lı î£<È ≠ä]'lÀ[3]=à∑B≈E< ∂V6çlSˇ≠πâ≠L&^ë]w≥‘ˆwÜÑ\©»j:ã20-Ê¶∑Î^t∆∆˝suqÑ®¶ù—€D,(˘ 	ûﬁP>ÇavµËQ€~:l˘R#∂¨ôÅÕ›ƒ25Ñ2M¢æTú∑∫Ω#ÛÅ’!æ[≥∂ñ{∞z6gl:¯!Ppπ
+çÆè[q‚qkVL¶RtsCW˜ˆ¶K¬Y˛cE@å…‰œ<1'X Åö’EΩAíiƒÊ≤àN£åbZø˛HÁXO“‚æ8!*ª$[ßBZ\Ùsøo®⁄wi^∞"'úÆD√ÅjH&k€âF(ÈŒ©ÌÙêÇl˘ÓÙ◊≠◊±y√{wƒƒú÷Îæv= Ò§á=^•,\í#»ﬁ x(ŸÂü8¨4>jÂı∫b`{±ìªw7≈ﬁc∆ ñ˙EåE±s.ÓA ¸óz~ }W/å4Q√èsÓN÷˝kƒm÷2∏≠w‘Ωó6#Íì®
+ê™•Ü∂å‰ë√∫◊1‘¿z‚≈z≠‹W˛&ÉLB‚äO±i(w°¥√πó¨Ìd2∑åß≈Eùêä+õÄ<ùB£∞!æ…≈v LÆÓåz˜Ωë~S}Ã g–§\-Wwxi¥–m_›¬sŒ›t˘´Y!Æú§]ônãtÄóæ‡†$'€ºïdè+ïyFü\≤˚Õ…ﬁÁY+ûDg™Gzn∫Ô÷˘kÙ∞‡w§ˇD~◊√Çî“YW÷—‚Äñó§XnòXç<jVŸP—¶¬A8—Eîõ]|3ñö≈å‘ÿ8wc@≈\Ñïue‚
+„é	wê zi°~©]%ÄÒÈ≤?¨(à[ˇ¢ˆä/W^Ã=Ü£¥’a°ª
+¯ÖÙ™’DÈ3∑–V1tFo—F÷ÆüÎ^"évf}ÂÇ§’sÉ
+góÊ[¡ õxÛÍ¬¨aQ…eåI?HàQv6n°Ãπ˚¥£Õ.ÅiîËŸúÑd›ÅX‡~aClKæu;5i5∏˜ZOæ§[Y¢C+˜ ’ë=3ÿ¢√z€Õ∏√0/æË(g–øÃ$–b•ÚÌ/ÇÊ˙÷VúõËﬁ∂ªÄßãÇ∂°†Eí9ÛDUJÁPwX€«ß`ø«p+<‹ìBö!‚“Råo-8SÓÆ<5W≈#iâ‹◊π:–tjê
+£∏ldUø	î”Ì –⁄›wbÓ˙0üÿ—-û≥c›—*
+Ÿ£ æ§Ì%T•T
+”&Å_ Ñ
+pA—πóﬁy“3%m—ã.s|óË›a:m6sC3¥Nó@4Ã{7¿ˆ2Èqv˚b\È»∞Ñw7B>›¡	@ yµì€ëàÚEõ3`N◊C;pàZ›qfÄu+7ﬁ„≤+–⁄•’ãÒ¡IÛnn≤âlPpºèŸä5ª∑ÎÖ(ìP¶Öb,UöΩE_H)t
+#ÂÓdB‡ΩÈsw©g pÚ˜ƒWÊO≥Åõ{sﬂ≤Ë«7ú.C,¢"…[GπêΩCﬂl) e3Ó¶ø/˙Y∞Üı,ÇeÄqh7q¥1™@14≈‘®æ°ï?–:—0>‚rCqπ¶ª˘ŸeÀõÆë‰2Ñ¿´ªªπS¯ç5zãqZd°y7[≠6ILsπ¯Ø‘ØŸô˝Õ≤ßá:â!V‘±´íÔHÿámiòqkDrÀu°ªã&f¶eØñû∑Ø)„¿“_¶KΩA/¶Œx≤ºi7Î'uO@5£4îπıÊ'pñj∏ïJ∂ëXùAál≠Í[i'Zv*†¥fXJrÀŒ9)ªF7Ì‹PiRV÷ÔQ⁄ ub+h»„Ü
+ëJÈı¨Øå*ÿ∆k&‹#.7áf†ÊÄ!` ó`-'§M¨ä≤Ö‘BX°∫áã∂WŸD≤W,Êà∫—ë-ª¬ü\Á¥ëÕy´TZQpÇK>˙÷ÂÉÉ˚íñπ<–—eÎÄŒ∞`†˘Ÿï£ì…∏´∆ë•77<&/HDz§ñü!ë«4D/∏1MÔf√⁄
+†/Æ¶œIÚ¨èrDa‰∏”›∂·¿ÑôÏ±˚b(¶
+»˛–}ëX	u%átb˚ í‰›LNöñD$åI™&$:|*”C)‹B0p–™ÌΩ⁄(§ı∑Çt@‡iˆs50ÜÑj@Õ∂HU	˜lÍ·ﬁ¬oäÖW„„≤æn^q…Dd§ÙY$°@õè∑}Ëv‰Ω¥®BŸ5¥ù(NY@ùæ»-"%ag.„–ÿ¨Â j
+¢ºæxãxœPÆmòk≈”¿f.+~/+-ôcÖπÊÉ·|¥ûØõ± $±]æ”¬‘£ƒ›äÌ•EˆﬁH‰¢ÄF*+∏)ÌåÊr35ﬂvXÚ\æDEÔÆ7Ã˝ı˙≈Ùﬂ◊ƒ>k¨Ææ(ÕÙa¨[Ç¯ÆÅÀ–GılMã%„bê µ~∆P^o5∫∑”¢£Ωa8í·+â(:∑∑Bú£p@ÙñLtÑh™∫{ìL	µo~k†ÕMøs≤√(ée;Ü©r"GÈ≈†3loYœ£ª
+\hÑ~aÖL⁄∆\NçZÒX8ûD¥âŸ¯l-#V:<§+÷}ÉÜußí°/Û©M›r–US'cj3ÿr•?˙px/2»WxL+}∏
+ä~mqAóØÿ(∞˘rTÎıÏ˜#Ôfµ ÚSNΩ›R=ª€˙h£´ß§¶P ŒÕ8Ï ¨Uö|¡ﬂñÏ˜_<®	B?∑•®e∆ÈfwÕ´	ìΩö$–vLb‚ﬁ›”0t$ÇS[ÿ◊ÔÛﬁÃzëAYXëv˝GπÚ˘ÅÃîâ)/ŸÅ@JÒ'øªπ—X•≥≠ë¥”9ÿÕwªj>–Z^)‰»›(◊~∫Ö~v73Yp˝Ÿ6à¯
+8ou◊l}¶Ÿ 1¢U±ÅÒ%Œ∏5xÌø∞†P+›b]C˛öŒ…Èq∂VxK3~I˙™{Ô&∑BÃv7H(„&èﬂ8±ñ¥ídz>Q†„›,Ê†Öà÷≤k©††¥≈[Ü\ˇT Bààë<Rw√iîó+3Ú‚…VÜ∏xk¯
+fX*÷¢∫ºK ‡Êm†OﬂÀxCSI‘pzuP§Gn)—√ôí“ÀòAf∑†¶eŒ˜¸1X"…O∏-K\ä„{ºˇ<14H'◊ùå8ü”%C˘&ùìÎ'ÇÜ›|≤å†ﬁHkˆâÓÀL>qOJîÑ°jáAñ@"ë*Sÿ}≥©¢äﬂï|Ö (yˇ∑ºÏ˛nN]¡ËªN<àú´Ë≥\'Øh≥‘áv“¿]
+öä‘ä≈\√]$A˛˜]I„[MÈ√¢%÷æ¿‰ír≈ÿ”IÌV>¡?%§ìÊa∏5âÍì{ÉÂÓ^C4í∞•h>Í&ù£ø€ìm Zt¨‘‹úreiﬁä≠:Pë¥µ@¥5C-ÚƒÜ¢R√™o‰(hAÃ≈Òä·.ãı≠ﬁxîæı6›/D÷Y≈Öç´•ú>L4_MÃÄy-ãz±R%ÚPo•√GŸ?ò 3Î*≤ L¶ay-ù—Ø@ï/EAëLöÆ˙J≤Ñ˘ùDá9ª	‹ã∑åt¡iüê(Öeùôc>ã2À%QüµÃΩ eÙıkΩL∏nNéj≠"≠‚3(¡|N´∏¶§«q¢◊@Jï`Æ+iì@‹ö˜z–√õ3b\$ﬁ@VáE_í8ñ€π–XDafîTü∆d^¡—¢…ﬁÃqP£A_¯yõE≠"íSbî‚ã\˜ÍŒ){~uHÀ,!8Í=Ω¢˛W‰í&öTŸÙÈÚÁ S∫@∂NnâT√∂Œæ®#Ìñ…IYõH ∏ª˝^Ó≥gÁd¿\À€¿Ø˚=ì“k:◊Å‚u”tÓ›˘b.s⁄ÚKÂ6o√‹é…ò¿:É…ê¶(±âÙ?∏jDnr1suóˆíˇ‡ä0R †ìÄ8∞\xÍQ,Ë1q˜T¨ﬁÃjÒ@(•›?Zâ—‡[$⁄dù'ﬂJjDå»ıù°ıùË¯¥>Ó/bãÕèM<“K: Lï|l˘y∏∫z{nè~c;wIí[î|Ó⁄πΩ´÷Sıá’‘t∏∫{W‚”0ò≠1m òd—∫w¯˝_ﬂ[vüIí¡ﬂ¶®KÁŸ«âªoCsü{∫∂®„ºÓÙG|:eπ#$ ûõwÀe<∂‰}¬\õlWÏ˜Ô:œÆ<‰›óø$∆°ç∑Ó˚ø1Óm∂è+>Î‰uü{∫ˆDîó?Úí0áÜ^pﬂô0˜¶€á%üıÙzO/âÚÍ^ë‰ÿ⁄[/Â{ì‰ﬁz˚∏‰≥Ó^˜πßkOdy˘#/	shÚ≠óÊˆºﬁü8v…÷ª˙É©—Ø¶°Ô∫5{¸akõÂ…/‡∞L
+‚l€üÏ/ˆNB¶ùÌ?dÅ»÷neASﬁ˝´ˇÒ√˜ı«øˇÈü^∫˘7/∫pwäÒ«g≈˘Âß◊b˚~Á«u»…Õ{5˝–ë˚Ml˘…π%Àç&ÙÕºa¬∏»ÆÑâ7Ûx”Ã=0≤™Ê∞–à"£}	;∑[a#Ê›»õywã¡{∑µù´$0€qMÔiÛ⁄∏_ÓØ,™6≤ÅØi≤6ØA≥qpVVa˚I `RÑ‚Ω8YEKÌTKëÏ–}6;√{≠µÕÇ´çV…^TÍJ¶w≥ï´%WÄï∑^ÏSr…LÛÖykN∂(ëÓû\ èVa^Æ}æÊgˆ˜∂Å2UIÚ“ó,m˚|3s Ó&[ªGÃVcñØAÃ'À“ß•≠‚ÈD9~ÆÓ*‡M¶¿Yõ™SBr
+t¯<‡(ÂìŸ0∏ïÈ∞‹kﬁ¢Èí¶ıÀ@¨Ãûå±∫y{O	V%ì“V^‡Ê/<v2ÃT1OS¨›Ω{©a#∑7-~H?é∂0Eó;cgHReûãúÊ˚¶mD≤s7ÕÖ±e·zO
+≈©€ÔÓ*Ä(¢Y±≤b =*}∂.ù3<GGe∑Z.*ŒGã7ºı'9`Ez5o¯∑≤0”|zÔéˆ¥™˘õz4E“äﬁΩïBI‹ﬁ9åÄÌ‰h'¢IÃçZßF†àw7¯rFNéŒTÓk™‰pØçòÀ∑±h#S|ËæÒn∂˘™ùÆa˝∂•oÜ’>ìw`q∏¡ò}ÌUB≈6,›yq'6≈â#C$MC∫ıF=	EÒ'#Ø-^LBãöÓ~[ÅX∂Q¢Ö§¢ç÷çæÙåíáÒÒ˚Iﬂf‘ı\Ÿ‹D:±<Ö¿+©*ıFﬁ›Ä§oÉ¯GYÚ⁄•e.Y‘“∆òRÏ¶å¡ùwk•Ùë‚&⁄ﬁ-o|V¢ÏçÈ] p€‡ÈfÉ∞´ØÒ*ÈJk9‚F˜pyâRC*2h`jŸ,wdÔ√Ç…p>≤bo+¢ÿ”…2^ò>˙Z§M‚Vãw<·µ1}¢PºK·ÇÅÆ∫>ahæ>œ 3){kﬁFwH[´È™(^s?êy3ÉÒZ√ÛÃ!z<jπîñiﬁ^√iÀæÿ†ûB≤»¿’âÇ1	Ÿº›√˙¨•2a5{1≥äÓoWÍ”‚º‡®f )	Êr˛BNÈ◊›ä2Æﬁö%À…k7°∞ÜzÀP<1\§Èê¶æ7ãèRà~KïÏnŒS≈th†Phúí\√{qΩT+‚Ë0˚ß≥=¥·s'˘´j≠≠´TÇ…~$∞\¡è¯n÷èD@ºP‡4©QtwõÍlh%v∑cB·y
+˜1≠áÖ4≤2<©]ÅõÂ5ìK=õ•ÉuF!ß÷Ag@t‹5®àrJT»§‹äVã˘7ΩP÷ÙŸfS˙⁄ê)\{Cñöçªj›‚ÆtóÒ^◊lÀ(ñ¬K÷~ tv‰æ	HÔÑ‘”¥ZXQÑ&∑Í⁄Ÿ_áŸuVE≥¶_5™ï≠I·~˜'∆F;r´’Ωì¶#vI‘‚›˘z∏∫EGÔk|tZ⁄§ÁG7Œπ∫¸ı˚6s·Ò—âmñﬂ7dı¢£øˇ´˛¯Ω}ÿ/âg|9∏ ﬂ@‚CD√}“ªj^y˙C>Ω§Á§MVêÁ)Õªpœ˜¢–5û˘∏Ïì`©Û‘Ûµ' º˚† !dZ>Ö*˜ÄÊ„≤O£¶Óìﬁ’'Íº¸°PË;˝
+›£õÎ>üzœ9è‘yı#Øis¢∂O°Õ=ƒ˘∏Ó”8™˚§wıâ>/Ë:DS˚gPh)ï'˝vJóM	’ﬂûg/}MÉc|x∏Ò‰Gb‹Q„«P?Ò?ΩV(˜Ó∑Ë∏≥€üÈ˘«˝∆ùˇÏPÓ∞±é *÷*&Œt„3u¶‹JÇÊﬁçâ~Ù(Àﬂ∫‡)Í=«πwR÷=Å°_uv˙Jõƒ€Ω∏î<ÿ«*Œ∞6Í2n3BÁ¡)•=é@‰ö∑f≠Ì∏“ﬁÕ‘J“Úê≠"µ+êcn„á/}`oYu~∂
+)0∆Ø%äsÔQƒDWO$4î)feÓuÚ◊Lw’î”MΩ=-Ÿ@Â£G< ©%”l8ÃÖ6#õñ›îCO˘	ì˙¬
+	V¸=L π/oôÚÕSø«Ôf®ÿÉ6K LöU-Ïº:Åo^†DÈÙÖÈƒÉ¿úKê~°ö¢#yLÙu”µV{vø—öÈyYe≈r∞PÜ°‘ﬁBò»™Cl®2ù{ı6[gw3°f$6À!»C§ Ωﬂ°Dé°≤-hgb≥Ç∫É¯7k„hùÓ’¿¥πœújπuÿÔﬂ<PãT¬îU’®L#ô·û.£#ëKä‹
+Æ€≠oˇbÍy£≈i©k"}4*7ß∑™§foï"^¶6ÈZ§GπHuÈôómÑEß=óÅöOÉêl‰«Í®ïQÕ‡£yãÙmPÃlxV N•[ïÓ<¯”âY`¿ÖçUN®„BØÇ∑jª‰BFóHd_(Ωkî‰{ÑN4 ” &!£Gi
+¶ïÉÏü[Î§agC«bé_ö≈?πù&8ÜÎ–S‹m≤=eaÕªõ˙§å‘†s–e@óÿ3_§∆@k#3ë”ÖwÄ∑öwtà%Dpñ≤…'ÙSju≈c*Z1â±k	ÆD(œ÷B◊20÷9ó®LºÕÍ8	”°'—~ìf⁄Ù¡‘¥‡æπÆiwTiDOïGiCÛ/àUíg¥∞”D∆∞ΩÉ¿$*†ê&ÂΩ:µ¥Úó-	¥Ù’ÜßıÊ≥¯KÆ¸!∞-˘÷C∑⁄hó°òT"⁄ÙCz°ÅŸ›=AÚõ:
+[cx·TDW+2áLìl√})S•yi∫gQl™;iTìí¿ÈÏŸR\°á]0¥ﬁ∂Ä1ÒT∫ΩõA∫dˆ^yugÅ7 0ÄÀ—`ÊJ 5¿U≠–ótQ7˜fÊÿ 1∞Ãh@g˘EÚƒßGb“ÎúuÕß#«!m⁄õKË¡¨¶…p_ÉçdRﬂ®÷$Î[
+Â´ﬁº¢˛ S7˛È/õ…ŸTöõFÖFML∏N”µHÿPﬂoÉ!-XOB˘^HΩªªï∏∞&ñÕƒEî+`√Û4·`=|éuœ,÷]{í »r¢âå—ä¡=áI7@öv‹'ü7–¨áÄV0iÅ&óÏÄ∑·Ø".å<’ji]ù_+gw*Ã,5oÄBÎ–±ÈD‡Å∏GèõLÿq˘‰àìª°R~ÕKkòr±˜Ä_W±n*öénnärùªáDGœñ¥v"jXEk81ﬁ§õ#F9ãj)∏AC\sok£à9∫ÈÉ◊π¡ΩŒœçÒ P∫\›§ª∑•ìs1å—]Ò·ÍÚ¡˛∆ØT7@ﬂﬁ|Ù	ù´ÀsæˇaÛH˜^«x+á‘ölh6πÔÉºˇ˙w?˛Âˇ9⁄©sZÁU€ÕÆÆeﬁˇ∞-s·ı2e—\jﬁB—ßÀ¸∑√2õú›Ü;π´(ˆÆ⁄
+˛∞ñy∏ÅeñƒÑ¶ë [sM:ÆÛˇﬁ£ÊüEƒ\¡¿oäŒ|”Ó„4˛ìﬁ’E)Áïß?‰”¨¢◊WÈıÛl†]àÔªë(îGø_˚˝˙{dz|⁄ø˛D™˝‡kreõ\I:ûdÒ¢ÿ¯ä5≤˜ôºˇÄ˚ı˜(ˆ¯¥˝âb˙¡◊k  …˚]Dv¶}7äM0≠ôzq¯Ä˚ı˜(ˆ¯¥˝âb˙¡◊õ¥w—›Eäv£X˙ä•Ñá\@‹ÿ}¿√ıw(∂{⁄ø~§ÿ«~%≈‡yÙ'|6äïO°XÅ⁄ˆiˇ˜ÎÔQÏÒiˇ˙≈>ÙÉØ)VÙüDaÄQ-≈>EÚÀ€5†@˝Í˛Ó◊ﬂ£ÿ„”˛ı'ä}Ë_S¨3ıúy §o˚…øŸCGC˜îFõôw¥É˜T9{ÈK:<OÃ
+n∂g˜˚ﬂòÏ˘¿«ˇÙ⁄∫ßÖæ≈4;ª˝ôû˜dœ∑Ó¸''{j- æ0'7ë¡íO_"ì¨¡ì]ûˆlEß>ä9BÈZßV7≥«ªü∞|∑r÷XWˇi®≥oáÀ{ø¸W@†—oÜd?jÓ7ó˙¯vä˘“TrZ:Ñ)ık	Ï˛Óvô8Qó=Õ≥e65„›øª2’^˛Ór¡YÓgR]&Uß¡∑]h–GáÍ~#µl≈ú‹Öíï®ÖÔΩ]ëÔﬂÿ≠lù†å·ÑP÷ÌÓ7íä®í_qUÜÅ›fâ”%KLı ˙A∂[≥•∑Ñ¯dóÓ-´~è œjƒﬁ˝†0Ä√]‚‚;ıÙ¯üô4 J# ÜÙîkÓ‹[9∏r@>U`ÊÅÔ ±”üXxµ E¥ÅÏ R„m Ã·ˆ.xªÒ
+ïÛÚ≈ùªôaBar¢bµñz†pÇÀUÜZ◊ô†C¯õ!D≠Úè—≠B2bÆn træM<~πÑMjTªüíJ’ªˇrÓôÉI6Ë™8f9”9…∞·È¨yÌbì8xC>9…O8¨–≠\ß)ü1@l¢˙ /lS«Híè0¸’+¿n=ÕU,LVg¬]No5FŒ‹™<Oèy	Ó«v¿¡√)Ωç»ñÜˆóB|LyrÄˆ©√ÃM&úQâ¥*⁄,˘L¡˜« dÉ»$®S°É˘k>√â¿eöOgbO¥≈D	ËBƒ”•;eΩqËC∆i›ÒÔSb<ô6X¬⁄ò’ÌçJ“^O<ì,¡-eqzê÷ <~›é=·y∫AJºEè+ÙŸËl‘l—Ê∫ƒëO«yÅÜT´ùœ€±sπÖ¥	ïﬂ#ïaà Râ3úIF\4+P	Bû‘⁄üë–ÊQÉ9hòUyR§¶ØWh€–∂uº5 Qi.\8–dÉ$˜¡å)†÷ú…ñIÍ–z„¶EßÀ{⁄êÜòI∏ÏkŸ<˜ìUãE
+M=Üﬁ≤Ó?ﬂvÄﬂ‡:õ∏Z≠îπiZw◊…ùdö”˙oò]I˝Ü´1∏íŸÄuÿ“’u˜ÌÉ°+˙Ò¯ëµÖ~ˆ°$W ƒ¨≤Üûôxj$êÑñ¢+BbEÍ)RG·
+â§≥ ˙iMT =ÂLï€ª!≤«®Ù@ûYqt·!∞H"-‹IÈd√UŒˆsÿ<°lpuëú˚π'Ω0»íapÑ˛'È;¸€/Z6Ÿ◊\%ƒÈÇúÔXì—p^C¶πån*fòßÍäJI¥C4&"u7Ø÷Wü˙u∂€6Ñ¡—(rbïz©îO(çˇÂD4Äô2z®Ω#—(ñI:d≤öY†Ã˜Ê«"Ä€î?Ÿ}ssA}†◊fÉ»,%k,Écy¢°ï§a≥÷ ∞◊=_ıÙÚa}{Rö´é#Ä!}‰ë+÷„∑;E˜	Z_N'h}Î¯≠„ÏÆª©
+¶.c…?’|¢m‹Ù2âdj—evcLvüè"©Eqzf¯•å∫£*ä{uAIòÿ2LC∑_g>n‹·›ÄA≤ñ€L]∆•Êä{!cc£Ë¬´Àõ[‡ù?„·<å?hÈ2@/s[N®ÇÓ
+ÅÛG3Tôõ>wﬂ,Ω8≥n∂iûπ<»ıYÇ"n‘∞>¨πâ%˜›ı"Ìµ?´	Ü˛“˘(Kww”I(—*« LëY+ç€6‘o¶leıÓ5§F.†T‘ l'À};)ùî|2∏1…ÏQ{ÌnûÊ∑™ñWT“
+Â˘ü6Æíû˚2VY¡¡[å·dSu8euêÃ`3≥’;â^"@≈ãç†◊∏∫G"” :áç≠¶˘©X9Z?;?VØ»\NâhÄqxÖQ
+P–åQ≥f)¨/dº{3:‹ﬁ∂»Ë["ÿ]á(∆_qZ⁄õdHwÒ∞f d9∂›‹ÁâwÃHÂ≥Élı∆ëûlæbFKyûΩ¥$w•.,˙∂VÃ◊?jR∑“±√–Û
+≠Ê¯∑€»Ù
+'Û§s-∏·/úibX™¯N¬b◊~ü!Ù¥HlCñgtˇ8Ÿ{jS≈‚‘èyY?;ëfJT–™ÂP°6£-á˜WFL¢≤Å»ì–•◊j¨¥û˜@ª`u∫D-*¢√-"<ÜQ‰
+r∑ègZ‹Óæ›Ê1O=6Uåö;tgGÆ3J6Kzs¸\—Bµ˚ P≈}ä€ú/é≠¥zΩÃ»œp∆êÃòƒ=/yï&∆|ÖÀ¯pÍ*ë˙µÅ ¶‰ˆ·/ePèÀ<X∆◊ßTÆ¬§MZ/(Å—bÑ«É‘¥íl˝˙V¨[iÔ=˘ d}ÚÉŸ•Ñ~&-·èé„´ô¿a’wÀN^>bÚøR"ì9UT}%õkwÙAèc_2 ¨zÔ>∫‚lÎ˛Ñ‘¸¥ÒÆƒjJ\™≈'ygÏYbÍ»*[f|»Œ◊>pVÅÈtÏ÷X±;’NvÛ	H !)©èa•˝JòK9W~π.°Â3áy•{áå∏qŸZ'íë∞&Í¢sL´,¯Öíõ\ˇl#l∆ºB˘]/ŒÃHÌkn!Ö¥È¡Huø§"„≤©`ë†ë±v¢∏¶$â,pF»W√+XÒß±àò#‰/ª∆`â¨˝—CﬂØ|2Åamt_√+sKû84Êœ∆±‰Cﬁ˘;FKÔ6D/`ö ≤’∏b•3{’¡ ı… ≠—NÇÛ…HÒd„DÆqÇ…_Õ=‘Ò’+)ÊCáë”;a-µg*`˚™ñ∑$≥+(læ1h€¿+0≠≤?îø‹=∫MÁ˙ÚﬁtÆ∑oòÏuú
+vﬂÅ`7Û\)%*∫\¸q7d“A˛JV$äg¡ÚúPB¶˝CJ'$M•;Öõ¡ôó6≠è/TA¶^π¶5?º€(ª≥ª'^j”°J+\Éä⁄Ÿ§Èp ©Öx˘…∆DÅ·ıhf¶√Ò¶2d˜:≠ä|∆É >REíÄ—äÕ¿d√5âÊ.l¬u¡_Ÿ$Ωˆ†gˆØéÑk@˝_˛ÇaÓD^:à∞N˝ÁdvóU onù{∑º°§P( @»ßd|™Âd7	BJ¬tF	/„ 4ÒÉyóˆ™`Œd¡πÆ.ø∫ùØú	J–ñPmŒ'Iµu∞N>ªãNåeyYdÂ!éæˇPƒØ‰£¨¿vEò>[511πNLK1°^¯cº˝»VbäˆıU9]w6√Ò4»“ï·øAúú≠@Vgè¯
+îÓª&¯/˘>Nxo‚ñ5éÕ—2ÀÏ.éé∑ãç%p ¥iYÄRòdt_NﬂYéôÚcy’¶.òa·~üAbœÄÚ)ñ´êù„99hÚ C1Æ—UíBÓ.ÎÒLf:≠j›FB”0∑3Z”Q®õπWm(ë¡Ê◊}∞ewø·êTÜ‚ÍB¥Ù<(Ù√€ÈN `⁄ Ì{«(ﬁÎå˝‚À≈f>ÅF”Õ	ìA¯®oœÚ,Ã]–YÏ˙◊X°ËËã+‚¥ÕF^ÇÃ”âæz¬Ó Ùxzêo0/–°ﬁYé∏(trr¸t∂ÕÛr˘f'CGÄ¥Ë0∞œ6D_'»W¶ùPÌê°=‹NÊ4íZfñ©¢r»∫)ﬂsóWóò\ec∆f{txüﬁNä ¨ËÖçjd&ÈÙ•ñÕÙ Ì2„J.ãHGÈlÌ¥Í5≤Ï›¯rYxŸ˜π82zEòn∑∆3‘ÒXû±;êı⁄Gáﬁ´ÔúÌ
+¸⁄dÚ≈0ﬂ«–â≤ÀG—O—¶tVi∏x8w¥Ä–/L{ni.üyôƒ%?T"â©s432¸îw˘Oå’…töûÔúj€Hb8ŸêG\%q~>=It`â!\áOY¢¯ÏTõœ¨mßçŒÈ6„ÓDfp®uàAÈ(+˝øOˇhÿËŸ†ŸÖ]≈(˜sNaF9ï
+úHÍn V(ÈRÖÜYFÇh)¶À1zu‡¶Dë¶fΩå±EÙŒ≠a(oT
+êÅ+q+Ò<Ÿ˚¬ ƒ
+Ω3 eÂ-œ¥>(pb´æºÓ*È)Qíj&Ú3‘ü¡Rçßvô~YˆD±NËÏ—óRi"é”bIõÅ„/‘∏ƒ¥Á•ÍÆEgfc\Â ¯gTÛﬁ=ÆDfM¢?|C]ºZZ.…µ?Ã5Ïÿ≥d…Ê¡˝;.ÖKΩD±π ÕvËÃ=‡§Y7∂-e2ÕÆ>∏ˇi˘Fü’b‘ÄúüÑ|k¸tF_∆lãáí¿á´´ÚÔ··ol1í∫@´Œåîw’J1˛∞Í ^7≈t4tŸï‘∏ºÔ›˘€üˇ¯‘a‘Â˝1XßÓ°º´kï˜?l´‹_¯¿*+C∑÷ù≥U˛€ΩqÁæŒs£¿åæoBÔ˛Nÿó‹˙OzWôúWû˛–ç`¯⁄≠5í-Âÿ∂sÑ⁄¶Tm¨‚¢^:÷Ê?|0m>Ûˇã árÊG™\≠?›GÃÚûzæˆD›w¿g≈÷´LÔ%JèàYªfïÔEî;é’„™œ ≥¸'Ω´Oƒy˘C –0+}ÅÓPVÀ>√Àrüs.âÛÍG^ìÊàóU>É4w´«eü¡e˘OzWü»ÛÚá>@†\V˚mZÈ®∆O…≤ıµ¸ûg/}MÇS¥¨GYˇ@â_8N·TÍˇ{åS¯ uz≠ÒÓΩﬂ¢Ñœnﬁ∞{á∆7r÷'7hts?)¶¿òÀù∫ƒ∆Ù‘yUëèzàª»/ûÜıù◊¨Ñpu∫πw˜[FLÜ?ÿWÜ7Rª4ÆH6«∑SıM]º>b´7-âº”Ïˆê≈ÖJgC3Ø˜õÒ
+¥øYhx#,”¶Ùiı˛Rlß·≈5íxK∞jÔvRâÆL‰µ`An…∑∞u>Ñ ‰÷¶˘Ÿ®æ BΩa·∫_ŸÂvW¬£sÂ£ÒÓ|œHÓﬂ›/ªÖ‡úÂ>Â/ŒëìˇôS€i#§Ÿf∏fô¢«Îúå'™à¿Ω…Åäˆ0©ó8SıﬂÆï”‘“Ω◊Õc;»p∑”ÿ€ƒˆF™ñ¨æU¸Õ+ò◊ëÊ≤≠"ÖÓ&&»¿√aﬁﬂù/å°§@qç•¯k†ªw7A :]$Ÿà¸'Ω6PÓSÖ|(·ü˙y.I9r¡›œNM{ô†Gìèf$=X≈%°Ïù£5÷ÿ√ˆa…ÓGíΩ∂Ê†—f¥ˆ&)<Ò§"72àré’É4¡i…•üÏ=y◊ŒÑ[;À“ RÀ>#›0Hug+ØD}cç¡};"ù	ä("y∏ÙÛ6UÙ˘xíπÀ6—"#“â‘≤ò3RF3Ñv
+0à…]9È0ë— N*] çÔ∏Õà>Ú~Qœ£ìÅ“Ì‚íYHË˚'DDp∞…„Õ&úJ|I¡‘R¶“6@≤+…P⁄:¬Ù≈PdæÉ°B¶d÷~iO¯“;–≠\aÃˆV)eÉd¸µWR°ì—¸:,H.QPn ÛO[c)àülH„1Ì˜DµX_[…”&IÍS–`»£SBäE«+™ ±*>3Z»Ωàèå¡Ï	Q&úlR±º¢’ñ¶5òìd˜uxAÅ®C_&Ué78°‚ÖrÙb†Z∆»Äqf˝ïÎ√ò|#ùiI»hòî—˙/œÜ!ÇD8ãMaek…ø]á4Òî∂‰lÎ‘˙daÃ®®∂UFÉ	$i|•E'D“%fÀ[%ÔG–ˇ8[v®D€œTŸ;ïIW»•˝›√ÜåR|:˙”“õîuˆŸ*S\R¡”ãu5ﬁê∆Ã3ªÔf(àézsA¡!*ì9üàäê)°Î¡ƒ´+'«@{âXÊXXé)ì£NT'EdïÃ¨m;G≈1g“êÃ¥ﬁ◊≠∂$K£”æxÚâ§ÊË˙âkS’ñI°	4®ùe‹/¿ßòdÉÊ¢ú£˚rJ˘Q§y$Äÿ*}É˛œWo PJ2waX>óﬁ‹ S4˙á!XSQÓ∞∂íˇ-çÓJ˙~§8*ô¸&%VKub61‘4–9m“8–bµ˘«”ÜcŒ´uÚí ¶ÏÑÇ6Ö&ñ’˘!˘9õ·ÿûâ)Kì9Ê+˜Éπ›˙…:ljG2l∫Ã‡Æ|Gâ|VﬂTz Ï¥v6Zt@≥∫<Ö±∆(nzpIÉ ◊+ˆÍ˛9 ∆üi∞ömÅŸ·“∞∞£»µÈõ}¢OÌœË@V∆ëS|”ëΩP≠©ﬂ”ÖÂ b¯9æv·©©5Ñ‰ﬂ^Ù°¯‡Ãõ[Äù‡∆t”—Â»åa“Ãu%StºdrtˇÌ6èë¬”ztÈ‘ƒ∏◊˝›î#cå–˛ç9–IWÊ_yKa¬õ\ï…Ê\3ògTëŸJÂ¨aN këëÀn˜’ıbÛøzÌÀ–ï*¢ûmDó(÷Ü**Tõ)¥ÓóAÿ∏+O`V‘Ñ!ª2úäQ@ÓΩÊÀI4`KÒ¶ËRäwèË∞êÛºµwlüˇôr˛Äeˆ◊A©5u±$˛£
+ Ï›õQﬂ ,¥¡1ë∞$sÉúõ%h1ÖH≠∆SÚt≈êŸÁC∏†´nErŒp|§Jà÷v	! –Òê≤ÀQ∞_ßG(_Q-È\íê>°GßÏD˚æ≤s•‚É´âçyÕ`oiCõEﬂyuÕÒ‰vrñ”àX6@ÿ˛uso«[ïpê∂ZéÆL—¢oÕßK)Z˘Â2¥ï•≤ntªªô√0%egY	z¡ê¶-1ÁA4C2häù öüg#Á…1¶õv&â®’Õ	˙ßX‡&€˜_JÈõºΩ,0vâ.°È≤x≈ß9V§y+DôI¶s≤}¬T√ËVÜiüäß”ÄˆXì€µXWæYa⁄–}(ê#'$ÃÏiıH5B—˝P¸IïB´Ñ+îÁ[ÿâÄ3Ñtòï†‚o1'âöœ‚ 8™¯Jóá´a∏"î$-$îÊâh°ë¨§πMl˘≠]∑ù¨∆b9=µÌåÉ4≠î}˙LIÜÓhd 'XÁ9∫€⁄ô_˛r¥⁄?˙dıÓû]ˆEb»†B8oUBƒ	®ë99yL’‰òÏkf‹Oü*_≠(˝7Wkû$ °ú·ÀE5:Ì—·fâ1ˇp˘«ﬁªìFG ‚‹Zë„JiÒ9SÂÙ3’4¨ÈÆç›¡˜nüb]Ω∫$És≈Úà@tæZ Iv#~•U;U˘%}VˇLãg*Äo∑hM.≤√e¶◊≈œ,V‡díAñ d/D∆;˙™ú Å¯∂8q2óé»¸…~ †óM‹ª	ıêñ{èùB´X n[≠‘N}ûô+ƒìı'öÅ∑èî ìŸï≤Øä&Å;â-I[õßK`îJróÑÉ¢ØäpIÊV°Œ´}Ω
+ÌÙ◊A¢¡õ»tíI}bÇ–2ë≠‰Ø[t^™&ıÏ9Jƒ* ¡Ã ï 21á.√_ùµíUz°ñ"•œ¸ƒAÅa8≥„t På9€ÊnBöÓv6‹Eù‡`Ö\Ö±IZµ˚é<Qπ	ΩÎCq3@`è„>‰˜â‰X7RsmŸ
+hÒEOV≠W%¨(fÔ∂AæP…‘26j#Ô∂™s	¨Í/‰CYx–Æﬁ&‹á'2÷æ¨ú–-~ﬂ&CD
+%Î'ú2:„^s¶1GyâæçHﬂ3GŒÍÍV3¸á|ÿúO+Aí˚Ä˚Zˆ…1mÿÖ≤±{∫kª≤2Z}cÂ—¿Æäà»›œ9W-á˘áïﬂ;\x]”3"-?iïaÀ”‹jêäz~˛ÈaÇ›˝À˛&%}î∂˚∞ˇîwuëË:˜|"I‘ﬁ2¿G ﬁ¥G˝nt°¶“ˆ‰a·˜kÔ—ÊÒIˇ˙é>/Ë4 È≤ÍûÖÍßP»Ì˜ÖﬂØΩG°«'˝Î;
+Ω¸°P®6&∂X,«f~çºòw<,˝~Ì==>È_ﬂ—ËÂ}ÄFÒu+ª»ü√F“1Ôﬁ~øÙÅüs/?íÁ’èº&N
+pØÊ
++\˙íë±ÒÌ√ Ô◊ﬁ£œ„ì˛ıÖ^˛–hî√Fõœ·áã_ÔKæ_{è6èO˙◊w¥y˘C†M-Ú£7»}Üh~ˇå∏ÿˆA.<\{èFèO˙◊w4z˘C†Qt≈â>Öç6˚Ì—å<% VÀu¥2Ôd^ˆ˙√èoÌŒÔóôΩ¯åüŒç∞{⁄Gm¡≥[ü©q/+˚÷=˚‰∫≤ë‰˚uê. ^–µhÑnÛû‰Ï”x”LúdˆRÎÙåı[<¢ÓX‡« fhAÉ.g9É¿Í›ù-£hà∑fm§Ú∏Í1Ó¬¬Åp≤ƒ=ùr≠ÀÕœ¨˚hG	‘¥E⁄"âVRÂ:JÁxs*[‹@wf†2é—ﬁ›⁄·– ç}E:±√ÆCãéÎ&Lü◊`wÉ†úTFå{Å€Óv?ÖF›ä3R˜üZ#üÑ$¬BœπEË jî¶πK.Që!ˇß“ssó≠¡é,}∑¡{ô…ÇdwNˆ«∆§—K:÷Ë=õºBÒoß»≤B.70'-ó@	ùOr@y%Y‘fïFÇy£Ó∫I≈—ìïWü3hJ-Â€Pø#œíßî£[◊¸§)*ˇ4‘K≤F·`êüÔBÑ&ûûNPú;J∂¢Ã≤•˜ìªnâÒ≠Xõ^‘g”qﬂ-ô¢}¨1€åH∫K3pó•π«!⁄‘URÚm‘Ö+)aAÉ©ªı`ÑuΩ⁄p9zŸRê# yÏoPI:>`ßæMÇnùvÒ6\>§‹∏äa√Knb≤AD»ﬂÕ\≈Ä)⁄∏O¢åÖÍ3
+7†ê%XR70MÜëÕÓfÂ0JFÄ˚u&@KüÈd,ºƒ êï∑—/‡®R¢;›œ§DàCo∆ΩJ9ëo ßÖêÊÏòAA©¡È‹fŸ>›/C\Û lUQqW4É[	∞bZÄXDT§µ˚v⁄üŸRI¬§vÊƒÏ"´À__¡]6_b`„™Z¥\dÚ˘1/ú?‡ü,,V®„ÕÓjl<[ïX,¡cÑfYÂ‡æõYº2¡¿€±ËˇÏt»ﬂÎ’7'&mJmEShÊ=Qá91˛ê—ûVÊ!Kf\r≤Eç™"b∫y…∏Iê‹ﬂ–,ä®≈∞P±hGATÕ'€ô¡XO‰y*˛–04q˚Áç‚Q°¨|+Á⁄¿*\äÄï'¡íòÂ∫%\◊ËPóm%IR#éB°$s÷Í¨òcÁR–πi¡ÔiÂqHùßx¢S[∑SwS∂^ÒÃ˘Ig\RI‰÷∫Ä°ôy
+$_“Wù%úk\s¶¡r&nÌ38ÖÈT=ÿTHÍ∫òÆ•ˇnêŸäIR⁄˙¶±° pøìâ´íŒqvÍx–äªªÂ∫¸≥ô≠rúÇ6`øg!Õñ}é%l‘öÕbŒÜ–Ê Y‡5EYUK¡q'éOæ˘ayYdùIˆI››ò+É·/ùKßpÉ≤‹j´‡Äú0 ì;†h©§5ÑõîUÓz,¢œ @3 #QÔ/øËÌ“kbtÀsÑ	é¶Â‹Sî¡b”êô˘≠NÀß;ÔNùà`eô:Ç≠›KJúãôòëΩÃä…ÄﬁvO∂t≠tß∂¥éÖ»G]ü∏ÂD!ä∑zÆ“‡Ü%NﬁïW÷™\¡í÷:O¨:Øﬂæi´OâÜmI÷únÒ÷ˆﬂ¯õõòe†PÒø&«ä@ó¯õˇ¯ˆ„ø˚˘üˇ¯√œoÒ'?ˇÛœˇOrè˛‚OØ~·óˇÂi˝í
+endstream
+endobj
+19 0 obj
+<<
+/Pattern 20 0 R
+/ExtGState 21 0 R
+/Shading 22 0 R
+/XObject 23 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font 41 0 R
+>>
+endobj
+20 0 obj
+<<
+>>
+endobj
+21 0 obj
+<<
+/A2 <<
+/CA 1
+/ca 1
+/Type /ExtGState
+>>
+/A1 <<
+/CA 0
+/ca 1
+/Type /ExtGState
+>>
+>>
+endobj
+22 0 obj
+<<
+>>
+endobj
+23 0 obj
+<<
+/P14 24 0 R
+/P15 25 0 R
+/P12 26 0 R
+/P13 27 0 R
+/P10 28 0 R
+/P11 29 0 R
+/Vera-minus 30 0 R
+/P4 31 0 R
+/P5 32 0 R
+/P6 33 0 R
+/P7 34 0 R
+/P0 35 0 R
+/P1 36 0 R
+/P2 37 0 R
+/P3 38 0 R
+/P8 39 0 R
+/P9 40 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+25 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+26 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+27 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+28 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+29 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+30 0 obj
+<<
+/Length 37
+/Filter /FlateDecode
+/BBox [ -184 -236 1288 929 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xú„240S065U»Â276≥r¿,#s# $ã`Ad” _
+
+
+endstream
+endobj
+31 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+32 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+33 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+34 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+35 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+36 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+37 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+38 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+39 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+40 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+41 0 obj
+<<
+/F1 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/FontMatrix [ 0.001 0 0 0.001 0 0 ]
+/FirstChar 0
+/Widths 43 0 R
+/Encoding <<
+/Type /Encoding
+/Differences [ 32 /space 40 /parenleft /parenright 46 /period 48 /zero /one /two /three /four /five /six /seven /eight /nine 67 /C 81 /Q 95 /underscore 97 /a /b /c /d /e /f /g /h /i 109 /m /n /o /p 114 /r /s /t /u /v /w /x /y /z ]
+>>
+/FontBBox [ -184 -236 1288 929 ]
+/Type /Font
+/BaseFont /BitstreamVeraSans-Roman
+/CharProcs 44 0 R
+/LastChar 255
+/Subtype /Type3
+/FontDescriptor 84 0 R
+/Name /BitstreamVeraSans-Roman
+>>
+endobj
+43 0 obj
+[ 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 318 401 460 838 636 950 780 275 390 390 500 838 318 361 318 337 636 636 636 636 636 636 636 636 636 636 337 337 838 838 838 531 1000 684 686 698 770 632 575 775 752 295 295 656 557 863 748 787 603 787 695 635 611 732 684 989 685 611 685 390 337 390 838 500 500 613 635 550 635 615 352 635 634 278 278 579 278 974 634 612 635 635 411 521 392 634 592 818 592 592 525 636 337 636 838 600 636 600 318 636 518 1000 500 500 500 1342 635 400 1070 600 685 600 600 318 318 518 518 590 500 1000 500 1000 521 400 1023 600 525 611 636 401 636 636 636 636 337 500 500 1000 471 612 838 361 1000 500 500 838 401 401 500 636 636 318 500 401 471 612 969 969 969 531 684 684 684 684 684 684 974 698 632 632 632 632 295 295 295 295 775 748 787 787 787 787 787 838 787 732 732 732 732 611 605 630 613 613 613 613 613 613 982 550 615 615 615 615 278 278 278 278 612 634 612 612 612 612 612 838 612 634 634 634 634 592 635 592 ]
+endobj
+44 0 obj
+<<
+/seven 45 0 R
+/C 46 0 R
+/eight 47 0 R
+/Q 48 0 R
+/o 49 0 R
+/n 50 0 R
+/m 51 0 R
+/period 52 0 R
+/i 53 0 R
+/h 54 0 R
+/g 55 0 R
+/f 56 0 R
+/e 57 0 R
+/d 58 0 R
+/c 59 0 R
+/b 60 0 R
+/a 61 0 R
+/parenleft 62 0 R
+/z 63 0 R
+/y 64 0 R
+/x 65 0 R
+/w 66 0 R
+/space 67 0 R
+/u 68 0 R
+/t 69 0 R
+/zero 70 0 R
+/four 71 0 R
+/two 72 0 R
+/six 73 0 R
+/five 74 0 R
+/v 75 0 R
+/three 76 0 R
+/s 77 0 R
+/nine 78 0 R
+/r 79 0 R
+/parenright 80 0 R
+/one 81 0 R
+/p 82 0 R
+/underscore 83 0 R
+>>
+endobj
+45 0 obj
+<<
+/Length 68
+/Filter /FlateDecode
+>>
+stream
+xú336S0P∞0¶¶Ü
+ÊFñ
+)Ü\@>àïÀÀ≥Ã,ÃÅ,#êñ.Cc0mbl§`fbdY 1 ∫“ r¯ë
+endstream
+endobj
+46 0 obj
+<<
+/Length 232
+/Filter /FlateDecode
+>>
+stream
+xú5Q;r1Î}
+] 3Êoüg3ØJÓﬂF∞ìfa		Á=ÿàƒó“ÂäoYùf~'ãº¯Y)úºQÅTEX!Ì‡YŒjÜ¡s#S‡r&>ÀÃ'”b«™â8Œéúf01çÎh9fö=!◊#nÏ4ÀUiΩ[™◊˜Z˛SE˘»∫õÂ÷)õZ©[Ùå=âÀŒÎ©-Ì£é‚¶ “·cá˜ _ƒú≈E'“Õ~3Â∞í4ß#1îÍŸ·5¬ƒœåOŸ”È}îÜ◊>h∫æw/Ë»ÕÑLÂ H≈ìï∆ò1TøÕ$ı˝?–≥>ö0TG
+endstream
+endobj
+47 0 obj
+<<
+/Length 392
+/Filter /FlateDecode
+>>
+stream
+xú=RKn1€œ)∏@•Mrû©ﬁÓ›[õÃT™
+/∂1îó©%?Ííà3L~ır]‚QÚΩljgÊ!Ó.6¶¯Xr_∫Üÿr—öb±O…/»¥TX°V›£CÒÖ( -‡Å·æˇÒ®¡◊∞Ör√{d`J‘n@∆C—HYAa˚ëË§PØl·Ô( W‘¨Ö°tbàñ )æ´âò®Ÿ†áÑïí™“Òå§[¡]âaP[[€xf–Ÿﬁëç3Ì—qYk?=È£Q2µQMg|Ò›2RÛ—Ë§“»› CgœB'`$ÊIòÁp#·û€A1ÙqØñOl˜ò)Vë; Ω˝ﬁíçœ{‡,å\€ÏL'—iß≠æb˝É?lKõ\«+áE®º(~◊Aq|X≈˜d£Dw¥÷#’h%¬ŒÌ0Úx∆yŸﬁ¥ÊÙDh£D‘é=(≤≈Âú∞ß¸¨Õ±û&{o¥èîÃÃ®Ñ‘vz®∂œc‘wû˚˙¸. °
+endstream
+endobj
+48 0 obj
+<<
+/Length 251
+/Filter /FlateDecode
+>>
+stream
+xú5Q;r1Î}
+.∞3c∞œÛ2©í˚∑ë €,Z>B¬yR¶ÏêGÌH.ïtì/Î∫Dò¸éeV»bK¨-fKˆ1˘=*cSå+ú KvËΩ5£®êÂö4©Ù§ù‰6cuÉ§€cFÑe2ˆ
+".eEp¶eëÑBõ”‰µÇ Ç§O¸-«?c˚z°cËQ%2/‰ZóAú!tz°Q∏HŒgWŸÑ_ÿˆ#Á"‡`'olNôˇ˙<Ø†∫≥ªc±ù„9·ˆˆ[p#Vﬂ(¥3´É˝=ìsﬂè§åΩÖ»òQá0\ÎÃ˜≤¯r9Hœÿó˘åÔ?k‘bÓ
+endstream
+endobj
+49 0 obj
+<<
+/Length 214
+/Filter /FlateDecode
+>>
+stream
+xú=PªC1Î=‰Œ|Ì7œÀ•À˛m$ú§B6BîöL…îá: í¨)O>KbáºáÂnd6%*E/ì∞%˜–
+Ò}âÊ˜›’ñ≥C4óh9~3*™”K6öp*∫†‹√3˙mtVá±[ –§`◊∂ r«¡ôã"JMˇ≠r˜R‹Ô=o¢àîtÆ˘ÂÙÀœ-ºN=éD∫Ω˘äkq¶:
+DpFjÚäta≈≤»C§’5=kµ Æﬁz˘7hGtÄÏâ„4•Cˇ÷∏«ÎáäRÙ
+endstream
+endobj
+50 0 obj
+<<
+/Length 161
+/Filter /FlateDecode
+>>
+stream
+xúEêK√ C˜úBGG|ût∫JÔø≠!M≥Äß±@w'©µ—/mK∫>[	Œ∆xË6n5‰uÄV§„hîR}π≈iïtÒh6s+≠fzî£†:ﬁÌ¢‰r¶ÓŒ˘Gpı_ıG±ÓúÕƒ¿dÂÑfı)Ó|õQ]›d“cn÷kˆ™∞¥¨•ÂÑ€Œ]3†Ó©Ì˝©s:Ñ
+endstream
+endobj
+51 0 obj
+<<
+/Length 255
+/Filter /FlateDecode
+>>
+stream
+xúEëKí D˜ûÇ#Ä¸‰<ôöUrˇÌ4òL6vó®˝ÑJ#¶,Áy0˝»ÚÕd∂Èµ´ùçä"Ã‰*ÙXÅ’ù)‚ÃµDµı±2r‹ÈÉ‚ÁÆúT≤∏Q∆:™:8¶Á ˙™Ó¸∏, æ#á2l÷96pÂ∂aå£ÕVwá˚Dêßì©£‚vêl¯Éì∆æ ’∏N6˚Í%Ç~°	LÚM†uÜ@„Ê)zr	ˆÒqªÛ@∞∑º	§l‰»åAªNÆqÎ¸ﬁˇ:√ùÁ⁄WéwÒ;Lkª„/1…äπÄEÓ‘Û=≠ÎÔ…ôcr”}CÁ\∞À›A¶œ¸Î˜Päfà
+endstream
+endobj
+52 0 obj
+<<
+/Length 49
+/Filter /FlateDecode
+>>
+stream
+xú36¥P0P040íFÜ@ñëâBä!H ƒÃÂÇ	ÊÄY@¢8Æ&á+ ∆Ë&
+endstream
+endobj
+53 0 obj
+<<
+/Length 68
+/Filter /FlateDecode
+>>
+stream
+xú32∑P0P∞4Ü&
+Êf
+)Ü\@æ©âπB.Hƒ ≥Ä¥%úÇà[B4AîÇX•f&fI8"ó …¥Â
+endstream
+endobj
+54 0 obj
+<<
+/Length 163
+/Filter /FlateDecode
+>>
+stream
+xúEêπu1CsUÅxÄ:Í?G≥˝ßiºﬁ@˙xÑxà=	√r]≈Ö—?ﬁ∂Ã4ºé2‹çıe∆¯®±@N–"W£IıÌä3TÈ·’bÆ£¢\/:"Ãí„´@#|:≤«C[€ô~:ØÏ!Ôˇ**Ána.™Ó@˘RÒ‘èŸQÍö°è*+kj⁄øª"î∂}\Neú∫{¥¬g+W˚}®Á:Ä
+endstream
+endobj
+55 0 obj
+<<
+/Length 338
+/Filter /FlateDecode
+>>
+stream
+xúERKr≈0€Á\ 3Êg„ÛºNWÈ˝∑ïp:›<Ù	2=eH¶‹6ñdÑ‰Ú•Wdà’êüFéDƒﬂ)°¿ÆÚπºñƒ\»nâJÒ°?ó•72ÕÆ–™∑Gß6ãF5+#Á CÑzVËÃÓQ€d√Îv!È:Sáp,ˇC≤îu )îmAﬂÿ#Ëo<‹≥Êr≥πLnıøÓ[û◊:[±m@	ñsﬁ` ƒ√	⁄ ƒ‹⁄ﬁ)(U∫äI¬≠Ú\';P∂–™tº7Ä9`√í≠◊ho √>Ù¢F≈ˆ†®, ˛ŒŸf¡ﬁ1…H∞'ÊN=q:≈ëpI8∆@ä≠‚∫Òÿ‚/Æàö	u:eMº¬û⁄‚«BìÔRq"n]EµlOÁ	¥?*í3b§ƒ—	ë‘íŒóı–˚∏âØçƒÊûæ›?¬9üÎ˚∏É‡
+endstream
+endobj
+56 0 obj
+<<
+/Length 133
+/Filter /FlateDecode
+>>
+stream
+xúMèA√0Ô~ÖûÄ±ÛûtzJ˛-ê6ÓÌåÄëÜ0<bÎ0%ºz˚·U§Kp6é˘%E<j‹TGcäù¯ÿ›°Ï•‚ÈMãÎs”¥§t7Q*mΩù»¯¿}üﬁU∂$ùÇ[ÍÑ.—$ÚEsÿT0œÍ∆KKèßÌŸﬁf>3◊
+endstream
+endobj
+57 0 obj
+<<
+/Length 245
+/Filter /FlateDecode
+>>
+stream
+xúEPªçC1Î=`˝,{ûwHï€ø=JFpÖ!Z?íZòà¿K±îo‚GFA=øÖ‚3ƒœÖAŒÑ§@úıôxÜ⁄FnËvpŒº√3å9≈Zp¶”ôˆ\ÿ‰ú'ŒmîÒåB∫ITqTüqLÒ™≤œç◊Å•µl≥”ëÏ!çÑKI%&ó~S*ˇ¥)[*Ë⁄E∞H‰ÅìM4·,?CíbÃ†îQ˜0µéÙq≤ëGu–…Ÿú9-ôŸÓßÌL|X&ôQÂ)ùÁ2>'©Û\N}Ó≥—‰¢•U˚ú˝ﬁëñÚ"µ€°’ÈW%Qôç’ßê∏<ˇåüÒ˛é†Y>
+endstream
+endobj
+58 0 obj
+<<
+/Length 227
+/Filter /FlateDecode
+>>
+stream
+xú5O;≤!Î9Ö.êåm`œ≥ôT/˜oüd≤˛HÚÙDG&^Ê»¨ŸÒ∂à¯SÒØ=Ì√ÑÍ=∏áÂ‚Bòa$ú5Î∏õß„≈ø]Â3÷¡ªæbñ∂0ìıï≈ôÀv¡X'qN≤c◊Dlc]ÎÈ÷L(!ùÌ0%»)}≤£å9:N‰âÁb™≈.øÔa}¡¶1¢¬WO–dPñ=Ô&†Ùﬂ’çﬂI4ã^2ë`aù$ÊŒYN¯’kG«Qã"1'§‰2“úÆb
+°	≈:;
+*óÍs ›>ˇh][M
+endstream
+endobj
+59 0 obj
+<<
+/Length 230
+/Filter /FlateDecode
+>>
+stream
+xú5QIn√0ºÎÛÅ ‚.ø«AOÌˇØ“	``hKúÕxâ¡œA‰∆[÷åö¯õ…]Òª<	∑Ç'Q^Ü{Ÿ	.oó˝8Ã|^Z9ìO2 ŸÙD»`ó@Ë¿Ï‘aõi'˙ÜÑœéH5YN_K–K´(OŸ~ßJ¥≠ÍœÌ≥.¥ÌkO8ŸÌ©'ïO û[≤óçWLcÙDÂ.≈ÙA™≥ÖûÑÚ¢|≤˘®!]¢úÅ'£@;∞Á∂üâWÖ†uuü∂ç°)Oˇ645I"‰%úŸ“∏[¯˛û{˝¸¶TSü
+endstream
+endobj
+60 0 obj
+<<
+/Length 237
+/Filter /FlateDecode
+>>
+stream
+xúEQIr!ª˜+ÙÅ©¬+ûNÕ©Ûˇk,3IN`k1iÅÅ-xâ!÷¿ÃÅ/π|MË4|72€:ŸpO∏.‹óÀÇg¬ñ¿WTówΩ/]ŸH}wá™~fd{≥HÕêïï:ıB4&ÿ!=#2…V,sÉ§)≠RÂæ([Ä.Íï∂N;çí†#·oî#·ÈJvMl´‘:†°À∂.à:ô$¢vaqjÒñ!"üuc5«¯ãN"v«„˛¨0ÎQ$í“g›q&£Mñ]9πy™∞V*9à>^—∆ÑÍt™Åcº◊∂Ùi‡πˆ_·>}ˇè˙πﬁ?∆Ó\"
+endstream
+endobj
+61 0 obj
+<<
+/Length 304
+/Filter /FlateDecode
+>>
+stream
+xú=í;í√0C{ùÇ»å¯ì‰Ûd'ï˜˛Ì>2…VÄIâ (/uô≤¶< i&	ˇ—··b;ÂwÿûÕÃ¿µD/À)œ°+ƒ‹E˘≤ôç∫≤:≈™√0ù[Ù®úãÜMìöÁ*K∑û√µâÁñ}ƒ74®uçK¬›’hY
+Õpuˇ;ΩGŸw5<õTÍ‘èQÊ˘!O¢áÈJ‚|<(!\{0F‰S—@é≥\≠Ú^Bˆ∑≤¬AjIÁ≥'<ÿuzO.nÕdπT¯NQÏÌ–3æÏJ	=∂·XÓ};ö±Èõ8Ï~ÔF÷ åÆh!~»W'Î%`‹S&EdN∂Xnã’ûÓ°(¶sÜs ÍŸäÜRÊbW´;o,/Ÿ,»îÃ2FßMû8x»~çöÙyïÁx˝lÛs;
+endstream
+endobj
+62 0 obj
+<<
+/Length 147
+/Filter /FlateDecode
+>>
+stream
+xú=Oπ1Î=8¿z,[Û\êÍ≤ FR"@ÒëeG«
+\bìé9/i?¯iÅX5GÙÑäaX‡níÉ,JWû-^ë⁄B]H¯÷ﬁ≠Ld¢<Ø;p'£>TYz@;DYÆI√X’V]jù∞≤Œ¬u=Ã™Â—'k)PTBΩtˇü{⁄˚ o/Î
+endstream
+endobj
+63 0 obj
+<<
+/Length 74
+/Filter /FlateDecode
+>>
+stream
+xú=å¡Ä0ˇù"#4âM2‚˚i
+Ì«>ùd”(]‡iBÑú⁄»IO[ÓûÑÉÉê∞_mË’æ*K{™ j2˛6|w◊wN
+endstream
+endobj
+64 0 obj
+<<
+/Length 138
+/Filter /FlateDecode
+>>
+stream
+xú=èA1ÔyÖ?)vBXﬁ≥UO€ˇ_Kö›^–å1BCo®jõÇ«ã•K®÷)äâJ»ô`•§“gëzb8‹¥Œ‚±È˙ªíV}–ÊF∫%hÇGÏSi‹ñqƒ5Í)Í\£ºπü©Wÿ4í›¥≤ík8¶ﬂΩÁ©Îˇ”Uﬁ__ﬂ.å
+endstream
+endobj
+65 0 obj
+<<
+/Length 87
+/Filter /FlateDecode
+>>
+stream
+xú5Mπ¿0ÎôÇÃ£ÿÏìKÂÏﬂÏ∏A:} îk‰Ç·ùo!¯¶/ÑuO*ª%:l°Ü≥
+íâ·W6xUÆäˆµíâÏl¶1ÿ†e˙—Œ∑Iœ•ﬁò
+endstream
+endobj
+66 0 obj
+<<
+/Length 88
+/Filter /FlateDecode
+>>
+stream
+xú5åª¿0C{O¡ãè˜…•JˆoÉÌ–Ä§w˜ÇÉ:AÚ∏)ú.nŸWzèìû& ±ÙLCÌﬂ`E’ãZ-_nc–b*æ?˙$ ñuÚ^8Ùêﬁ≈{
+endstream
+endobj
+67 0 obj
+<<
+/Length 17
+/Filter /FlateDecode
+>>
+stream
+xú36¥P0Ä√C. îÏ
+endstream
+endobj
+68 0 obj
+<<
+/Length 163
+/Filter /FlateDecode
+>>
+stream
+xúMê;√0CwüÇ Í„œyRtjÔøVr†É¡ ê(usf‡†!ºﬁ¿ã-e«∑†¨O„¯'Â∫â}Ä˘ã∫†í*Ü≥©∆ÄF†;tıí≥ô{ÅM√Xp§§Ô∂@'<,õŸVµQï∞{ÏìÓ"I≠⁄£”åÅgÌ∞∞ªõO„µ¶¶_ö)Èõÿ3ò∑HõBdàZ ˜qÍg{ˇ ?Î83
+endstream
+endobj
+69 0 obj
+<<
+/Length 131
+/Filter /FlateDecode
+>>
+stream
+xúEèÀ!CÔT·Ú>©á’ûÿ˛ØÎ0öAB¯A";Ò0¨ÛÚ6–≈—¢√7˛6’´cï,∫zRVÈêáºÚPi0QƒÖYLCaŒò »ñ2∑·∂MÉ¨lïT≠Év<∂ße´~©maÍ,Ò¬U^∏«?êK≠wΩUæBS0ó
+endstream
+endobj
+70 0 obj
+<<
+/Length 210
+/Filter /FlateDecode
+>>
+stream
+xú5PÀC1ªg
+®ÅdûVΩuˇkm–;aˇBX»îy©…Œ)ÈK>:L∂.ø±"≠u%Ï ö û+Ô°ô≤±—ÿ‚`p&^Ä7`Ëiç5t·Ç¶.ïBÅ≈%ô|u{ËæOxjrvC…`	j∫MX¥<üêN‚ˇ~√Ó-‰°íÛ û˘úÌ;≥n·'jv"—r2‘≥4«E<yE¶p‚≥÷w’4‘fNñÆN?å `"^YÄÏÆD9K“é•üoº«˜@ S¥
+endstream
+endobj
+71 0 obj
+<<
+/Length 90
+/Filter /FlateDecode
+>>
+stream
+xúMçA¿ Ôº"OPD–ˇtz“ˇ_´‘Ω¿NâEÇÙ5jK0Ó∏2kP)òîó¿U0\⁄Ó¢ ˛2ILùÜ”{∑É≤ÒqÉ“I˚ˆqz ´˝z›“"X
+endstream
+endobj
+72 0 obj
+<<
+/Length 248
+/Filter /FlateDecode
+>>
+stream
+xú-Q9íAÀÁzBs”Ô±Àë˜ˇÈ
+ ÉÜC :-qP∆Oñ+ﬁÚ»U¥·Ôô¡w¡°ﬂ u9H“TM®]ºΩvfÛ§5,ÉÎ?c
+7zqxL∆ŸÌu5{◊kOfP2+q…ƒSuÿ»ô√O¶åÌ\œ»π÷e§õï∆åÑ#M!RH°Í&©3Aê£´Q£ç≈~ÈÀ#ùaU#j˚\K€◊sŒ4;´<9•GWúÀ…≈+˝ºÕ¿ET´<pø€C˝úÏ‰7ﬁ“π≥≈Ù¯^s≤º0XÒÊµêMµ¯7/‚¯=„Î˘¸®•[
+endstream
+endobj
+73 0 obj
+<<
+/Length 317
+/Filter /FlateDecode
+>>
+stream
+xú5RKrC1€øSpÅŒòø}ût≤jÓø≠Ñ'+∞-@B./Y“K~‘%€•√‰W˜%±B>èÌöÃR≈˜≥œ-ØGœ∑-
+Q=¯2'"‘œ‘Ë:xaó>ØN)xì Ø·_xîNÉ¿;2ﬁìë$¡öKãMHî=I¸+Âı§ï4t~&+s˘{r©j£… Xπÿ§+)$=âH≤rΩ7VàﬁêWí«g%&›&±M¥¿„‹ï¥ÑôòBÊXÄ’t≥∫˙LX„∞ÑÒ*a’ÉMû5©Ñf¥écd√x˜¬LâÖÜ√Põ}ï	™óè”‹	#¶GMvÌ¬≤[6Ô!D£˘3,î¡«($áNc$
+“∞ÄÅ9Ω∞äΩÊ9¿àeùö,mh%ªzéÖ¿–ú≥•a∆◊û◊Û˛E[{£
+endstream
+endobj
+74 0 obj
+<<
+/Length 247
+/Filter /FlateDecode
+>>
+stream
+xúMQªmD1Îﬂ\‡ ÎkyûR]ˆoC…ê¬ °/)ß%ˆ∆K·[æ‰ëUC?1Ï3,=…‰‘?Êπ…Tæ™õòPb·˝hºt/"+ ﬂèesŒ˜‡£ó`&4`¨oI&’º3d¬â°é√AõTwM,ÆÕ3»ÌV7≤:≥ lx%‚∆ DŸêÕ`£å±ïê≈r®
+íZ`◊ÈQãÇ+î÷	t¢÷ƒ∫Ã‡´Áˆv7C/Ú‡®∫x}ÎK∞¬Ë•{,|ÆBÃÙL;wI#Ω¶fRôùëï:=b}∑@ˇüe+¯˚…œÛ˝(\*
+endstream
+endobj
+75 0 obj
+<<
+/Length 72
+/Filter /FlateDecode
+>>
+stream
+xú5å±¿0{¶–6X`ÔìKEˆoC|N/ó¢¡Z∫Ç#pu©¸—#]π)EócŒÇ·q™_H1F=®#„ﬁ«Oπ_p}
+endstream
+endobj
+76 0 obj
+<<
+/Length 338
+/Filter /FlateDecode
+>>
+stream
+xú5R9Æ›@Î}
+] ÄvÕúÁ©~ÓﬂÜî_
+C¥Väöéïi˘e!U-ì.øÌImâÚ˜…
+âíW%⁄•ëP˘<ÖTøgÀºæ÷ú Kï
+ììí«%˛óﬁ.Áck?è#w=z`UåÑÀ£kY:ª√öç¸<¶?‚rÆX∑cH∫q⁄ÔCÛy» fòñä
+]Vâ~AÒ†G≠}˜XTX —ÌIpåçPëÄvÅ⁄H9≥ª®/˙Yîò	tÌã"Ó¢¿IÃúb]:˙>t,®ø6„ÀØéJ˙H+kL⁄w£IiÃ"ìÆóEo7o}=∏@Û. ^Õ AS÷(i|–™ùc(öeÖwö4«áÃ<á3îÙ}(~_K&∫(ë?°_£åúos—ü∂äÒŸaØ`Ö“≈ö‰}@*z`˙ˇ◊¯y˛¸∂ÄT
+endstream
+endobj
+77 0 obj
+<<
+/Length 332
+/Filter /FlateDecode
+>>
+stream
+xú-R9é$1À˝
+~` ÎÚÒûL‘˚ˇtIU™lÀ<‰r√D%~,ê€Qk‚◊Ff†¬Ø´ÃÖÔH€»:àk»E\…ñ¬gD,‰1ƒ<ƒÇÔ€¯˘¨Ã…≥∆/Ÿ˜VÏ©	ÀB∆ã3¥√*é√*»±`Î"™{xS§√©$ÿ„ãˇ>≈sÇæ#h¿/˘Á´#xæ§E⁄=f€¥[ñiGïñÉÌiŒÀ‰KÎ,W«„˘ Ÿﬁ;BjWÄ¢0w∆y.é2meDkagÉ§∆≈ˆÊÿè•]Ë∆e§8˘ô*¬JöÃl¢ ˛»È!ß2¶ÆÈJ'∑QwÍ…\≥πºùI2[˜EäÕŒÎ¬ôıwò2´Õ;yñ•NE¯{∂ù„ÍŸkôÖF∑9¡+%|6vzrÚΩöY…©HH”∫
+N£»Kÿñ¯öäö“‘Àﬂó˜ˇ3‚|
+endstream
+endobj
+78 0 obj
+<<
+/Length 320
+/Filter /FlateDecode
+>>
+stream
+xú5Qªq≈0Î5ù¯ï4èsØ €ø@;a@™ºdJπ\ÍíU≤¬‰GáÍM˘>`¶¸ıê„ËŸ!∫S÷ñ{Àƒ<•éXMñ{∏Å/MâπÖÛ˜Ë+£0Å∫≈ﬂ?@≥$0ipSêk≠Zbâ<,X≥+Ã≠)T»U|;6πrq≥–ßö∑‹ÇeàdGj±ØÀe)Úªı	ÑÊàOâÖÁÅf"Ò'b{ˆŸbWW/™÷IáR“ln04E≤ÍÉÿW«5?OGŸ¡…Aøä¡¯68ô/Iy_°è˛œŸ»±íC$Ú}µ¿à#lÄ°OÌ#e 4E˜ÓôR>&UäÔ F!}™W2ºëŸjÜÕˇ]Ÿ*
+UYüFp&ÉI8Ûd£
+”Rµ”ø˚‹„ÛcczÄ
+endstream
+endobj
+79 0 obj
+<<
+/Length 157
+/Filter /FlateDecode
+>>
+stream
+xúEêπC1DsUA	∞Í±«—wˇ©˘J¥o -áØ%S™'"¶‹◊hÙ0yüM%V,ÿ&∂ìrAJ1òxN1´£∑°ôá‘Î∏®™∏ufï”iÀ ≈ÛhW3ì=¬5Í'MË¯ü<¥©Ë[†Øî}@µ8ùIP1}ØbÅ£úv"ú‡>Gô)#qbn
+Ï˜ fæW∏∆„›7y
+endstream
+endobj
+80 0 obj
+<<
+/Length 149
+/Filter /FlateDecode
+>>
+stream
+xú5èK!C˜9Ö/0R~Ñp™Æ¶˜ﬂ6aZ		€/¡ÉëåKL`Ïòc·%TO≠>$#è∫I9©P7OhL3l“% tﬂ2û[ºúVÍÇNH‰È¨6¢åf^√—SŒ
+õ˛À‹$jeFô2ÎT∑≤≤`Êµ<˜3Ó®\ËÑáù ∞ËN1¢‹fF~ˇ€Ù˛{20c
+endstream
+endobj
+81 0 obj
+<<
+/Length 80
+/Filter /FlateDecode
+>>
+stream
+xúEåª¿0D{¶`~&fü(ï≥ J‹pO∫{∏:2SﬁaÜáû,ÜSÒô£`5∏FRçùÏ£∞n_uÅÊzS´ı˜*Ovvq=ÕÀÙ
+endstream
+endobj
+82 0 obj
+<<
+/Length 236
+/Filter /FlateDecode
+>>
+stream
+xúMPKnD!€sä\‡I$!ŒC’UÁ˛€±√TÌ*ÜHÈ≤UÎSbuâÏÚ•Mó 2y®ÂO€ˇQnˇ–»A¥∑åùbÊ÷≈¬$<Â4#'◊,è;OfÖ∆ƒç„ù.`ü5[ïÕÅ9m:7@∫ê∑™≥ﬁdP"ÍBÕì.úß—óà9û®`Jw&µê\>’°qZΩ
+πcãìoƒY°¿a–Lq÷_÷®…≤Y» IÜ!Œ}£{î
+ç® y+¬ì°ıÜ’†ïπÖ¢©Âí¸⁄0∂åuÈJÅ™ ¡ﬂ*ß}ø$ç]S
+endstream
+endobj
+83 0 obj
+<<
+/Length 52
+/Filter /FlateDecode
+>>
+stream
+xú350P0P–µT–526U05≤ÕLRπ‡Ï\$ü√S	aÅ§s*s∏“ Tó
+endstream
+endobj
+84 0 obj
+<<
+/FontBBox [ -184 -236 1288 929 ]
+/StemV 0
+/Descent -236
+/XHeight 547
+/Flags 32
+/Type /FontDescriptor
+/FontName /BitstreamVeraSans-Roman
+/Ascent 929
+/ItalicAngle 0
+/MaxWidth 1342
+/CapHeight 730
+>>
+endobj
+85 0 obj
+<<
+/Length 13972
+/Filter /FlateDecode
+>>
+stream
+xúÕùIè%…ëﬂÔı)ﬁqÊêAﬂó£8#–I-5§À A9$ÿE±õ‰@ﬂ^ˇü≈€"ûEæ¨Ffaä]`e§ááªππÌK<˝ÈS<˝·N“ﬂˇ8≈”ØÙ˜üÇ~˙·”(qiCˇ¸ÛÂüπÒC8ˇˇø˙Ù˚Oø¯/z·ßSXfÏ≠ÙP«x¯°Ãg}ú~‰[ø⁄¯Ù⁄ËO©/cÙzjmÈZRLsi•≠?˛˘˙cM?]∆Æ?ùWó÷’≈™mFm3jõˆ„ØŒO?’º‰‘c∫~d˜‡œü>˝ÚÓ≥ˇ∞˚ŸÜ¨ﬂ˙ÙÀÔOø¯oÒ√È˚ﬂTÒÙµÁZµ±íy!∆•Ã∆Bøˇ¡ ˝˝Ô>˝”Ô˛Òõ˙ıO˚›?üæˇ”Èø~ô-Ü≤§–ÚvOÏ€w◊ıÌ<_`m)◊¶÷•z´˚«›Ú˛z⁄úLqÈu‘S s…ß?ü˛œÈÀÈ˝x˙ÔÜYø¯◊œˇ¯„o?ˇœ_˝ÚÙ€üûúÏßˇıÈª”_œ3Ï«n~\˜ˇˆ„d˛ﬁÀ2áùr÷Ÿ§h'¢ÕÜe\v…ﬁkü1Œet˝wº{x¥ÁÕ{Œ√Õ˛ﬂë◊ac_4~∂ö<‚>=/°ÍOª_ÍÌ·!<Óﬂsn·Ò¸#O‡—√ífÔ%∆ØHèî⁄í2Óñz˜õ˜úáxº·#Ø√#•ºî^k
+ÉÒ+< á¿£œ•D˛‹/ıˆ˜Ô9∑x˛ë'Ëmi5ß9„Wx¥<ívxœ[˝ùû)ˆÜó}˙rD”ÆøB@lŸ£~ˇWÅÔç'∆%!œk◊eÂ÷b‚ﬁÌ¬ØÀ ﬁˇc;˙W«/üÓ_˛$n#Ç#’æ‰“FN9étäbû-6°\k©ú~˚√Èˇ#ú˛ı/◊·}I-µ\S™U‹¨/a∂8J…sFøD—˚ê{Oπ‘|äB˛^ã^’]≠Mß‹c´˙AK
+SåøOgl[B÷GÀLB¢%œ<˙–ﬁ‹E$ÌΩéÿ
+{‘õYfÜ˝>é÷äsN5KÑH‚Œ9V§§Ê.¯%-í3¢¿ù«<ΩÃ•«©ôÁ®…=ñö≤°Øw˝êsO5ÙŸõ?≥Œ±ıíä~/∏iw•m—√"ibË”s¶”Këx°è™wÜ˙Ωˆ◊bi≠È'ëË<kZzˆ÷=óTBÍî.—¬´ Ø≠oã$ÙêJ©!ü^≤∏a™ΩT}¿≈¶Ÿ5≤ÃZÜ!K“gö${gÆπ≤∞∫ÁS.K–Ì…S˜FG'¥ñSIÇâ~ú3WÿmvGìÂ0zò‡xéÅÖ7©€%ë·[kÏ1Í •6£ãP˙}’±uÕ'$JãÄ.Ëu≠√«æ$fƒÁú#Èè{é}©Só7±ÀIΩµO¡SÏ¬úSUV£π3ÒïÓc_zö8')
+MÉ{»M∏Í¬|õEs‘ôã8VaÌ–À≈ñê¿Hˇ=ïXÜ{‚U‰¨∆êÑ‘DtèΩ[†é]ÙN˚øht)∫ãe∫£ÌŒT.ò»£Üdxa˜O±œ®©LŒOKo⁄„Ëπ˘ÀÓï€’9∑óî¥—*©‘ı`ü¬9Qß®,Zπ;ù≤(bã¢“ô∫Ä·PdU•h4ô.`ã§&ÌëoC˘:¯! /|J"~¢’¢Éc∫xmœ±kg:ç∫Ω∫ÙU"≠ªtÜÒA¢C,C"≥Nóéà◊ãYÈÙf7Œ hß™´‡-|ÍjÎ"ƒ¢øºŸCè†BqÈÇÆÎ–!¶(
+gDkF“FäG†Ù˚¨ª¡^$èÜ®É4Ω—∫∫U=4i8ö[˜^∑H(S]åäuEÃnƒäˆ YOFpy£æ™{c¿ÖÔÚ}™d÷sâH 9Îv	•:¨@	›u?áVí£.ÀIßEë£N∆;ó(Ç”vÑ¨àÕ€!¬à¶5Õn}Ã"g›[D‡`¸∫T”ê<È%Å%∫ò'R'é<Ï∂s(“'Kd˛*Ü@SƒÜ(æﬁFˇÛv'©£Ëó93¶YËé_O‰´e]yƒè»%wëN[ÂÇ•áÑ¿u%≈˙öå ﬁ/b£˚°{(b*˙'	Cé∑
+nB`h◊ Â$›àïk5b`éi˜ínDb˙ã»{`÷Èä-kAß[F…-˛t2Æ¿")BP∏”cëh+@"Õâö˘Îò≥ ﬁ"⁄+J” ‘¢ŸÉáˇ®:1‘¬Î“˛tÕ≈:;g!ÈQå÷»¡uk}·sÑƒàfÚ¨éT\N–´”Ω‡ÏK@ãÌÃ≠c-"J•ãÒyk>âÆHT‹ZQI‚EÃœiE °Ñ>Ml»UƒΩZB≠S`‘%≥ïKàÉπk£.ìÈ\(â™Ñ*â=HÙ›€6@„v	k£Dó±°ﬂôJÛFÖ&_ˇúLG!—™•–‘OÚ‹ëBsÚÈ˛Â{ÖF˜F‚äÿê˛U#G&≤cÀë+no‹W“pGé0Tçig0¬ﬁÂ£Èdb˜4U·BÜ7£˘Ωtwùít*Hß$*iÏ÷ô:r™~9$¶⁄ó≤ŒLG1¶7∑Æg“ u0`ËZ◊Ã6ì3X¨ºù™Î•‡îä.ΩÖ4!u¬É0¨uhI⁄`	¡]∂‘t)ÈË¢l“[ñMaã?Z2ö4∆!"+°|¿ÛDCCŒ[åπ®#Ø ê4≤éFt”Ö≤s
+í/&b@îTDªuøß°9Q∞¯4&&£ı".nF'â íÀ”‡Z LKˆí§)∏kI÷µè’n~Hıb=ÓR§FKhÉê‚§ÀÉëìÆÄ;X<*ƒ¢K“ı%˝0+`qFKP(B?]ùá®Æd~±M	ﬂ>rkd◊πg»ï.ò≠gë"Z%‘>à∏jfiYbW“0<xhë}Jµ7ñ!9>utlÔÿxM˙®NG
+Ω∏Ωò∑ñ]≈›˚+tìË∂W—÷Ev˝K&‡i4&ÜÆk°Ôà]°¥{´∆Ñ1∂¡:).©è‘ñ #ô≥Eì˙≈∑'ÁY£áOF∞ÉdKÌRúGåBö©‰9ªŒR&≤bê<ßÂÿÀC[ª”ùΩ°FÈ≥ü·Û∫ÍR…CÚxOâ[íFí ,¢èÈc‚-Œp]ùáÊ*qòmE“"Ã∂N.≥$ù∏ ﬂbøﬁ¢;ñb§:ì‚•ÆÎvaµﬁº!_tAz„ Ωt—≥(ÎUƒ›ëø⁄Ldh	ATƒ~/iÕ]∞D(˝2Ë¯ÙÂX84A∫újêïÉî§;å˛Iîñåãë◊ù]ó÷®Îäﬂß.±4‡—=‘÷ÖƒyUı€U–—â†vı–5E¨$∆$
+ã_´¥§è≠YƒUM¬ãÓ≤$Q¡‘%≠	1GÙ.„*4É∑=ÁÊN-ıóãÆeC¿Ûö◊rv·›¿ßÿ•ŒÑ‹“=–9ª;9Vâ.Çµñøjc’>Äv.ßï∞¢)há‚√•ÒÖ©GÉ†ëàEæ‰Ra4Ö.÷/Ì&"òàÕ∑$ı¥{"ÜI’Q˙ûÒH°ÓOn>Í:Íî≈∞Î†SÍ“K9∏í∫G]òZ≥òØX`n>«GÏXµâ¢
+§*òœËüã©ÖYº|Nà=.UArTo∞∏Á4)∫D#
+B€ä€›eH}±—Ã˙∞ÿj+U¬Cv/@Á≤V>[b´ƒLq@oò;D‹´	¡¢ë[5L€õ{¨Æ±l¶i!	Çzlﬁ‘]◊	C∑∏l7Ì,ó3bñë®'fﬂê∞%◊eΩ(<Í”√›êVP…FòËÜ¡å;£∫<i’$Â	õ¶Ÿú±ƒrÉ\b-Ùê¿,ÊÌr!
+c€ó“Ó≠sw“-,åôK+—ÿEÍä„@L<4—v%Bk#…›d¡ÜÿtíËÏ-Jíü‘rwì¢ à$Xîl1®~›=ä"àkLëòi∆EAm“≈'ìñÆ˜ú∫QTâÁ $N›ˇÓÁÑZ¨ÆßØπàMÚYèW∑&Në™´ª˝ˆ`ı$]∆eÿÖÄ≥Ë^¥[‹≈˛…Í©ª=<˚…∂ﬁŸ01›ts◊â∑U¬xn¯≤	nÿ¿†ÏKÈkúòœ`∏u]ÓFo~¥˝Ìﬁ˜&ÙÅ†›bOiNî√ΩœˆΩ∂;õéFoﬁ/ÚÏh”∑wˆOv[2˘S Ãå≈¶] ? 1âdÔ÷xyvÄ€;˚'; <ô¸) §.ÿ3/HÅ*Mwƒfïóáá0∏ΩıhÖgx˝≥ıy≈Ñ¸!pM|mª»ı—!.oÏÏ˜ˇ⁄ƒœ˜>$CŒ(±˜ÑOΩÌ0ı˙hˇwo=<⁄¡‡Èû¬Aå[b€ç‘ÅC¡s∂[Â˘Ÿ!ÆÔÏüÏa˙‰œ!P≤¥ö5hÅﬁ$∞ÔWyyxÉ€[èˆPxˆÅÁp ‘ ›®Aˇ8¨¢À^rÚws6R’fœì=›iÛowˇÊ∏}·˙·πÚ…œÒm·LOˆ˙Â5)ÊÙÙLpz≤‘-¨Èg˜ç√öÙWŒ≠ûã¯ÒX–rëæ{÷Ÿ“Œ™ä7nHe´fÓoˆÃEi3z.RN¡ÃZΩW"¬%%Ìïˇ\µ‹xå]µ){É-∂d‘<z7óA—ÊzΩz6ÉìîôÜgH“ê™◊0<≈^ö∑‰∞ò{m§*M∫„n-8c/ ÓvÃúc)ÕºﬁıcïÚ€ú—X¥§gB™3ÂŸ≥hù,qò´.áY‡ß∂âB?ºeÙeÑâ°Îbç(˙‚òŸM,e2	ƒZÁÈExnÅ´ÿöw⁄«§\N¬∂OE*cÈxûÉ∑
+˝z›ML˛Rc…Zp©.ÿ–Ùãé LZMl5Ü˘∑é'O’≠D„ïh´∑ª"qö∂⁄3æ”’BﬂÆafò¨É2O{70ç9,ÙÕ;;,xå⁄i55%g‚∫XË_çi⁄·Öl¶j]íæ–jªhY∏ã;3¡ ¬«4k1DùcFº√ŒX–¥‹4∏∆ÌUê.\D•Ëä‘D»Xñhs-‘È≠„b”∫≥Y±0˘≤ê}º–µ¢{ë»/,®" cå⁄ß{Øánrb¥P\Œå´…ªPÁƒt¬B‚+·›·.√çO1ˆ4»LXßj;Xt
+Ÿå†√n∂¥bŸº€™_˜‘µ‚T-báÿ°DÙùÎ¥p/ l•ô€©FÏ‹≥z;„Q5=‰Tß8˚®ﬁ2ÉËÄ÷	Ïz!§–[E‘©%E °h5à.XåÜOnK∆g3≤˘ˇâäÑ=¯†Ê∂TL˝,ú%Z¨’k‘‰ŸÍÈˆÈTAAjŸ[á@+™)–MGRƒMí|2£É ¢EW¸‘ñ)fò•êπCÁ¢Y÷fÊÆÇãX*∏xWñÜ›r£(*Óí∆’Å∞[Öÿ<®PCè%êåyıéÌÜk’±‡.fäèò"õ0;∏„#+€¢8p_8£Ÿíπ∫êæ¸UÊ∂îà)I"Ω.aJX);Òx∆¥(s∫yÙ†õÕBçpã5â8Há<·•Ê“°Ã Y™ù†(]ë∆"6q?ÁéÈ9d-âê?WÄ(§E‡π–∞•õ7@ 1#¢á¡bò
+∆Ú~`ﬁìÇÃ±mdZ‚A&ó‡Í¬—ä¨ùÆR¸õ%±Zq–Ñ3…w¬iÌo[ΩŒ¢U=-ä∏H- 4¥Ql¢•zO¨—õyä\àˇÛ∞⁄t¶·]ê¸G¿°∂f@ó	È ;†7◊)·O≈£]ñ•ﬂŸVQI †t¸â.·¿!&b7$¨Èn∫¢+9Á!yÒh¢xHWí(ÑÅ!˘"‡UI¯qÉˆ’≈ÓﬁnQ—!®!}ôw◊é∏æx∏HÖË.R\†b¸∫Ë3zPNÑÜ	ÒÒø⁄µ Õ¸≠…•åêôD“±¥g∆A‹Ä.¢/π¬gu.MRäÄßq:”6ÏÌõô˜u§˜›¥0)N∏ÀØ*÷ıÁsVÂu¸W¯%#ƒﬁg†Ïû¨zÌÌ·Ys‹>xn‡O#5c.xg≥$∆;ˇÔ˜Î>ˇÊÀ]Ó‚?C±
+≈]r“~¯ÓÅmr;Ö3•áîâﬂüèiå€4µw‹ÚÕ]‚ëïﬂ{ÈÒŸv˚ØOˇ:vF˛∞ÀM{G ‹¨Ò◊UY˙ΩóümÅ˙ÙØaoËK˚0(‹¨Ò∑uY˚›◊úá;H<˘ƒXÏå˝˚Ïﬁ˜Ñ≈≈2[¶oÒw^yx¥É¡+S?ŸˇŒ‡øœÊ}«˝ﬂYÂØÀ<¥˙ªØ9∑pxˆâ◊a±7˙Ô3yﬂWÎ¸mùñÔ•«g;8º:˝(Ïˇ˚¸›˜Ñ¬Õ:[Áëıﬂ}Õy∏ÉƒìO<Å≈Œ¯?éRÆ¬ÕN∏:Ç¿Y⁄â^˜˚ˆß{}∑{@º—¬øö¥˙b≤›WëP˜RW8ªxıì%>H…X/U∏y÷?Ÿ§Dæòlˇ T*b–6“ò˚ˇ˚Ûèøy˘·è_˛˛”*˜,i˙	@øãQ7GƒS·ÕÛpw	‘oAìoÏkHΩ"EìF,oJRRR™â`Ë≥íí∑∂ji<˚DZs¯Hûƒ|∫3zZƒ<	,”“—§ {1ÔÂùÜGßñOJ#Ÿ,$FßxMuŒ;Â±$¢Oì–oBï.Cf“V˝bFçÿ–„ªîpÌ¢,¯ÚQÉtËê«9πA‘0KØΩX˜0)è:AÔ£bh }£∫só•Yl#OX#µëÍ.Ñ´@ˆPÃ⁄Òm¥Vä¿‘ö7^Áﬂ±66îŸÿ%W·©∂õ\F‰V¬Íw Õb«ÌA<Mà¯-ò_ô^R¥˙Ω3\«»1-cº&ÚZJ≠ªÎFS./î»aÛ§6ÑY˚∆gNÏñI∫GN5¯ì/ÿ∞ uhx8CäXΩ·•]äb'?üòﬁ–Fä°Áå&ëÆf√§v*‰+ˆD\jÚÓy‹=Œﬁ»Gy¡ìïâÙ±P"ÿà‰«›ûå¢G™
+xÀÑO[Œ|/æ¶óWﬁ›"Ú.§qeÈdqŒ!£mãΩÃÅTœD©∏É.õàK…ﬁâ#9èFú≥–ka"FﬂªÙ*∫pî¯È5∆ôlNl‹¡d≈']´÷åöH˘◊N”•írFÀú÷cQÿnπ˘$ã˙ÜÌ*µs∞©<ì‚àŒÕäë,zëm·Ωÿ7£;∫fµÇyÕª”Yaûvi&Êeqﬂâ√Ç\*K"€K®nÍ¨êÁ¥F›ã˜Ü€ÃGÓéı/ã™ò•pÊ‹¶é’%…ñN æùÕ≈ˆ"Ï.XEß–ÚhÂÄLd√ÍK—≈õA/ÙÏíå√¢c#hïÑ™,VBÒo∞®Yâ≠Œ∂ÔXB
+∫•≥vwõ∏¢'ó§ºFtyœﬁ›)∏ùp+‘ê0é)¬VZÔ.^ëKª_ìY"·‘b*◊R€EãP·°qX¢#4ëlÔZΩUìá€1˙IR"øG¥è˝vuÈ∞¡§≠H"2ﬁÕØ¿\Æ—ë)…°uà’íƒt@ç›*Äq4öNêÏbÔÿq¶T|V]óKòñé#£∂∑K+õ%råî`ÄY¸^ ÏÓ’1ó@i¯¢pkFå’ì“.]v6Çâ%öãâ«$d“—{ ±≥#õ&tíÖDI˛o¥l#@¡¢&å]ë|‹Àµ∆ft&6˜i¸xWBZK ∏–4⁄˛¥®níº%“êá„/∫-0ßJ4:˘NUÎ*ë$Ò#‘]%
+A¥O»KêèNá§DóõQπ¶ãH*ñÜH*}«Ä¥öàÄ—¶•ç§ö%Ø∏(´≥Ó—™»à≥c√∑(é0‹ª¢¡∫*x%$mîI®ÿHÛóÕ6EaE∆(ˇPED;q¿˘‚©ï5˜ÿ¨<q2ΩíC‰û{¢(Bµ¥d—‚âø»_"¢quYäg	zW7·ûã∆îê™9·…â%NÂV=cOπ)%¿Wª†ôÏßrM=Ÿ3?ëRΩhªe€"œËTß7sÇ§•!“îWñhC]	æ‡çXY≠∆∞|*¸è‚√s‹√˙õπ)r±¥˜õä6â7πs‹¨˙ÿıÖØtS«≈ÄÊ]˝«˝ìUÒæ=<+û€œ›πìF”ÚZFM“Á>·˜ø˚ıóøˇpÛRlA3åOa∏5?<ﬂ¸ºBa;É7Â
+w&ÌtA‡›d!Ï-É™&”º8·l™≠Gñ˛·[ÿœ˚é™òdÀ[Ωº€^Ôq˚™Ût–7} G1ÒY—srú$™‚.ø/œ∂ﬂwÑbc£r‘v¡∑««∞ŸºÍ<›√Ê-üz
+õB<€ê@Ωqáa õ´Ω˛∂Xﬂ‡º≤{≤á≈kS?Ö¡ÎﬁÄ˜¿¶–‰m•Ø‘≥<x’y∫»õ>ı0n]ÀBÈFKåÿ|˜¯6õWùß{ÿºÂSOaC‰j›\úÙQxsÊ≠;ﬁ~ çÛ‡-„ﬂÏˇ`∫g;ﬁ ”^∑N?€«ó◊8ËmÃSæÌåŸA·fù~À·|c„tn‰97)]ÖÍ}7óØ
+ >|X‚∫ï∆˙˜#–U•?"rK_ÚFPı(‘`†Ó å∞ù¿
+x&ˇ+ì2‘π80Fê%6Sæ ˝J_y«JT˝ÖJh:Ìô~/ÖÅ*tçrÜ≈!5_((ÊïÄë≠¢ﬂhÂ`Ñ@v1è>!ô ¿r 	tÈÜ4ó‚¡âP DjeúZÈ¡WíEpö√h/î
+£ë√} ÒIYÃêàË?òC'j»ï|xY g†‹Òqﬁ"uCCÇ˘SdjéH«§≈—à§ıK”&\”[®Y6j7Ô…‘—6CN9:ñY[	Éºè¬ΩIOΩÅ´rZÈèç"Çbë¢3Â‘1—ûˇt˜êâV!™/Lj6>ü@Ë˛çÿk<DõY≠˛‹¡E¶üêé¢±«7ΩI:≈Ù Ÿj∂@Ì-í≤ò·âRÄ∏I	æFP}:∏hCZjßX\=@+¬êÖ˚jÙœìxZ+ÿ6˙Óv´Ã∞…,3L)zçU◊A:e^ÖáT"‡8†Z»∞dDX=‚<t…&1æ¥ìxˆL-•Ùß≤4Ütå¸ááFÕàQ€n`•°ˆ‰‚7)\*Â-èÊ‡‰˚åîL:∏á‚XZC§º°t≥tR6Ç¯Bù„¸
+’µbÇE@63÷≥Òkm“-ıV|ÙúòpCŸﬂÖ$≈@öŒÕú	”ä„n”ê/Ÿ¿úG‡s9@qã¡˛äÕ˘ÃÙ+÷ùÚ¡Åå≈˙"$¸ÕGt/RÏ.GÚ+¸≠Hc≈"G"çøxQ!ïË∑L‹Q°$—f¿7≥Õ	»~>À∞§ùãxz˘qEo£ø“2Wjß%…˝wvOLîø{∏J›ªœ-s"Û3ÇÖcÆusˇ˜ÛèøΩYÊv ¯
+œ3n5û«—€+Ógxú–≥ÀïÄgˆ[ôÂﬁj2›Ó∂y~pπ€˚GËΩ2ÒA'à@ïdõ-í_xuª—ëﬂu˜M‰,›/r} ÓØoÏmw<Ò≥›õ–Ów_?j˜âÙãq∑»ÛÉ„›ﬂﬁÿ?⁄Ï˛ïâüÏ>Ö.Öˆ–ÆˆÆªØ	À˝"◊ØÏ˛˙∆˛—v˜«?€}≠VOÒ∂˚;˚3Öﬂ0ò£}ü«Óÿœ›é›…ûÏı—4ﬁfz≤á/GÙ˚ˆ˚g,√≤ﬂ¸Õ,Ù¶S˘∆v°“&]¬ê.1Ø§◊$ú∫óQ6∫f.WyÆÓƒ F÷ï$’‹$—Ω?Ω_Ërßêl 3ä[J:ıßàîLYt8¯M-§&'b¸)¨Î
+Ì∏˙ß W≥Ù"õb¥ÓUvÍ
+áËÉbô,¶Û‡3u1)}R1Ôh∑ƒUë87ã?I#5PJG)7ìœ~âë3S&√ëÃƒFÂ=©§Sˆp /J
+Z
+B9•™Rà"-RzD£9KÒ∑—ñÑı,X ñ;Ñ…„MΩ˘–$vóƒ—ú•0ˆÙZäøP~0lëy{∞
+Ÿg™oÇÈ˛$aA‘ôÖ#]t)-y{¨R‰øØ%5;—√Ωdi‡ó õ«€çc]JÖûçßêu°SC?∫ße°Pl§W@ı7  êJ™{zÄ˝bÖDËÊ0éîUJ£…˙òõiò°ˇZ=∏®XÆ≤aVhA9 ¬|tÏGWàê:xBãÊÅdÑ–É¥»£ÌP,£ZQ‚#í´»LUX©s!ÖèZÒ¡˛b©;Öv≥˙+≈î7ƒÂ&=`¸Ià√»˙/Sô€ˇL¶.qÄ-˘ü°V}'7>—6b†ò!ÂÉ›¢Ç™À—5ù<vÎ≈ut£S,5µH≤?G¶¢m!,˛Ë‡àÙ∆>[!…√™wÍŸGóöäªÖ)FZâ{6ú"xÓÏÄõﬂSfôµ¥£#∑Ï^™í˜~»w©ÍåÌµh‚ŸIB?∏Œ»9[-è√K$ÇÏö¡ŸoÕ2Œäé\4Ï©w6‰ΩxP£@€ÓçcõTnîAJëXå≥ø" B£^¸éz3kPMÅÇæ◊Óπù\Ü~û∫=Xe–À¯Øm”[®ﬂÔÍ≈Óüò~˜‹©w˚‡π5H¯-íS-G)˜Â¢”ﬁÃA¯Ì_~ºŸÇ6€ˇ∫Õ3mµõ˝Ë˚◊˝oﬂ˜&t-ASƒ∫Êˆï∂†√TØ◊-AÔ≥)hzë‹ÔÛˆÙzõ˜ûÌ‡¯Üè¯U˜{XÌYëºçbﬁèıwﬂõˆø∑µæ“eÿÛÒ·&o˙–S®xÕÜ?,˜·cw´=éTÛﬂ||∏À[>Ù,èÅjÈC¿rﬂ˘nµ«=ò˝7Ó¡Úñ=Àc+Ê¸!`ôdYÒgª⁄€„C∞lﬁ||∏À[>Ù,≥I\jt „ïá¢æÔñMò›mµØDÙ˘o>>‹ÅÂMz
+'†Ø~XjZ¨j⁄Æˆˆ¯,õ7Ó¡Úñ=ã∂,”¥Û C·ﬂwÀ}cÌª’˜Ôˆﬂ||∏À[>Ù,èmº˚GÄÂ,íÓ$bÁ±iy≥ıÉ…ûnˆ∞ù<x˚Ïœ*ê>≤¿`~yMæçy&v?ŸûƒÕí˛‰¯÷˝”±#a3âÈÖötûpÕLm{•>Z≤.m∑íuπ}MüîL;$,÷I
+ˇ¥æo1yÉ≠w•É≠Ç©E+ç8c	ÈíÑ‘v™a&r≠_°*Ö	ºuO⁄¬∆AøÚÅÅÜbß∫¯·“7eªlÎíHﬁπıı∂∆¿SÄ∫Ê7µΩ%∆äŒ“l¶Ø∞âöo∑Œóm´Ü¥ÙVî!éoÎç~ 2˝h›£Mfk Nöyºd◊Ìáß÷,o≠Ò<iûìäÆòó≥L˛:)Ã0,|«∂%ÂZ;∂π÷•£+M^ì∑E’∞KvöWY˛<°X5]
+l∑•“l:S˘Ùí√2ÈHOO6o·úª‰⁄*û
+q£ÙHü◊∂µ€e9UJùkCùL£úËŸEW2M·∞:À∫FÌÕú#’°›—‘ lëf_∏ø)˚HºT’[w¶S≥VìÖ0™ßëtº&t∑ù=h“D+bz¢84-3-gù¡Ò(πÿœU3h,’Ω——:‹à£w:Fk‚ó[pè1¨ûcÀTá¥;ñSBŸ<$—ÖùZ’®3ek∑º”ZΩ£Y˝r-ê-⁄Ìíëı_È˘Áû:¡xUî¶$ =dzNUJÖD˜l2rn§îÑ°+©—tç‘ãÙ`Ç∞÷H$U±Ω¢X˙⁄µs‘nüzGJg∑nó∫ü£—‚Ò‡
+”‚¨E<ßR!kãiîËÇ•Xgƒú,â˚eÎ≤H∏{w(&ÅßÌîå¨ÂN°aèö k&b„ò:[çxZ|ÜxD÷f•∏w¡hﬂ2ÆìLÎ‚ÊΩÀàP¨ËHp…púÏ^ÜNçRúE$©rÃ9R~◊•Dáã‡M…åD	Ç8à%ºÑ"Ó∆shö,/û“˘›zÕ˙§M£GN§,œy ƒkR™≥óÍN^Õ§I}·∆K≠V5Z∑ÈZµ˛·ã~tä	D™fPπ∑ßk…Â˝‹Å*•Ö∏KRrU§˙∫¥ç¢•4˝-¡
+Â‚Ÿ"J_√C√Æ…(2RG][£—,ùƒ‚4Îú
+Q% À8õÆ}r©«#¸&a›qé;ÓÅ xˇBX»âôuÌ(‹Nüåøp
+èÎ≈u≤∫ÑwP¬.ƒAiñ¯Óö.5Êˇqt5i«)ÕqŒÿË∫A-ÔB¿ÙE¢#Âƒõ¸h§’∑^k’Ö°åÏK¢ªH∫v⁄‹€ñ:≈ÿMÜ»ÙX‰@ØˆxET>µ‡u€¥Q⁄#ÔK¥~≠89ƒ≠,ê<ZΩﬂ<›õÃ∑≈ÏùM4ê¨"
+GQ~üv“n5ÈNÍ8ÛÄ⁄•ÒeHîMH∏x59aÔ»m=∏JW>zÃJˆ¢:àà"˝•ØΩ∂)S6*O£Õ»≠N—˝#›
+≠Éï¢Mﬁ¢©¯kΩ$L~°6<’˛Éœ_≠∏ç™’W±∆»»9∫dVBF##ÿΩ“°!ä	Q 9¯[ãnïPD7ìP2ö§
+t≈ïyìÑ∞`uÍ≠ª–WlG“…ú.ƒYLD€GˆÅ¡öG"àbù`Å{	ß<»˝‘ﬂÃØ$1â˝¶≈µ¶"ftQ—Æ?ØŸm¸WzñZ∂⁄]w9y˚'¶Uﬂ=\5œ›ÉÁû•&Y?ÜUıM–±]ù‚~˝∑üæ‹πñv¯váß0‹öáo¨pÿL·Ly`Äm°†˚ÎeäﬂsÀõå˙Î*_…›?z’{º≈[>ı:X‹Ã˝Úa†πwT‹÷{Ï9z’{ºÕ>ı4^‚~˚0–\ÚÎokı3˜ΩWˆèv†xeÍ' ÿÂÌÔ™øÁ˛7Ê˜ÎB_1ÛΩÍ=ﬁ¬„-üz.n⁄~¯0–‹g”ﬂ÷{ú∑Ù™˜xö7|Í	h≥ˆ„«—⁄3G‹r‰#`úÔ¯ı˝ˆ˝È^ﬂcu€+˘‹åøˇÓ•≈]z[˜≥˝~9fé∑OY≤7f´õı˘Mß¯çÌœíä(%âFGY+…˜∫—“î6yñó˚.0c
+ëcV{∂Áµ„—≈Fºå’H_ú£’πV√vç2ù—ç*ä≠õÖkçåLË∆’Ñ±]ï(i≠CqDLtytJ∞y3ì®ó»Å∆hivnskåkÖ–æ◊KãmrÆ5ƒà•öôtSov,‰vÚ◊í£¥ÇÜV]‹Ÿâ∞≈^`$6m‘à6º·TÁ√öHó&+sIQ‹f}tº…ÁB∑?È˝\gµì;-Æyá)Âz,¥¿“fÜlë≠UwÙ¶-Ün*èì≤"Ω∞uo›ÑóHç≈éÚCTg°÷‹µË]ﬂkÎ›Ã“ø©ªòì)Ó’á†‰ØF"∂ŒúFSS∫uDiﬁB$»èŸ¶@Æ¡t "f2’ãæªﬂ‚–ç…D ≠Ö(q¢ Ω—uëéFØ®µ¥$©◊‘ﬁÎ˛…óÖ¢mP_ésß√^´£∏ËÕÂ-ôÓHø>Ì¡ÅöRàõ®âuõD≈—>)≈ÉuOJp—&&É<uÌty.ÜÆ=LtgSN)XYV•π∑]x ËÀ}P50·S¢Ü}m.¿≥°IÌc.VhÇî;WŸ=yöãDHZ1+'é"°z(©yK¬Íx§"ßµY◊¿ =ØfÀÌE”Ø#ıÈîÙB˝¬HÉŒQ¢w—ö!U¬∆9±+„Mô˜.òáJ˜[DAj:ã⁄kMj2>∑I7Q3≥£ùπ)wLO≈"ºÊ,õô]BÚˆ®˚.¬1õ—ªG∫˜‚
+xd|Ú-"& ì¨ΩE3¥ÆÏ*]ÒNfu5N•,4∫§À¢OK§SGb∏;i˜/ïåÓ‘Ñ2…'T‰ﬁ`&òÄh“G¨mÌq∏£^;cwB—Ds∞ ∫CUot0jr§⁄«KµzÈ4ÄäÓÈPZô÷|¢}cuiYYâö}∫FAYöf"∞uÅ'ƒÍÆ$cπ¬,¨ùö›$¯[ﬁ›¡)ö .gêÆπ
+9ªÀùß@r¥˛dvÌ™høˆõ‹ì™íÑuÅbÊ	÷qo0=∆
+qœ∫]p(—øﬁqÙzÉ√"6*17Ø™X/∂\)M‡¬O	ÆRåhbŸ§b∫K4;|æPg3◊’;Æ5◊Z@Á(q·æ¶ 8ﬁ3Ó¬òÍRAj@S#ó¢ΩÙ[S‡√St¿XªÄGi¸äÏU©G ©˙‰a±jÒê¡aÂë:Æûÿ›ô)ãÕÕ°õ≠ŸµÈfqæPcKPË%RÜ¥!Å	˙’˘ ‹âA€Õ™(J¬Évpí¬eÃΩÁ§V`˘/≈%Ø´WHˇÀñ>˜"9”§Bjâ&∫æ˙°
+NßîƒÁR*\T=U+¸⁄¨
+ÚZÓΩz£ÎBãÉ1q©¨›EÂ±Çªó2Z¡îJ®,(oùù˛è˝Ä°âºÚ˚)v©”!""ßË •…JÈ¬„’3WL(Ù-úÆ(»môÑèï!$¥JÃ9ì◊M§Xöd
+(v@"≈1œÈÛJö Z≈}$#Q9´¨p˙†U±V∆ÔJ¡•£ÍeCaøù˝y"î¥´¶u`k∏ŸÑoŒËÀ_iÓpπ‹Ó*–ÓüòÓ{˜p’>wû€üªEÎPﬁöà7…Pª:˘˚ﬂ˛¸«œ˜Ë~éÅ‡w&Ç›Ìœ+∂3xSz˘≠A•Í◊¶7¨∂§ØOpx?¿≈hD‹-3ˇ∂◊ª«á@‹ºÍ=›ÙMüz∏S⁄Xíyçó~T)ëwÑØdBö“‹n˙ˆ¯æ˜ØzO˜}Àß¸+,Çå©√2i˚“jV„ )4Úé∞i¥L—gÚv¡∑««∞π’{∫áÕ[>ı6ç(ÒØ@#WØ…˚¡&Ö,6ú@Û˚ﬂ=>ÑÕÊUÔÈ6o˙‘3ÿ$›b)˚°¥/◊R˛~∞±¥9H∆v¡∑««∞π’{∫áÕ[>ı6ô ≠–Îòíù&ÔõnEÿ¯Œf¡∑««∞π’{∫áÕ[>ı6çƒ@Zê$n°S¸˜˝`skvb’4Œ¯≠ÃµŸˇ¡tœv¸JÒﬂ{ûw˚æ˘g˝ÚöuÛT<ﬁ«Ïœ„ŒOÒ4˘∆n
+håq5†Ÿù"£N·í/1¢c7GßL%±e÷§UkfÊß7Z%™4µ…îZLTnΩÑıl∆F´=\
+˝â˘ÎòhÕ’÷°O∆(’u¨Aı¥ªâ˝¢é≠%Ö™mZT≤U∏n!H•vwXh]í[´Éﬁ±‘ºπê´Ô≠ô¥Çi&â:Vdå±çãbøùYå<QÜ7“áÍ¡yP@%,#hsm•9ÄπÈô9z–Ë®á–Ã@¥wƒpvSº∑3#k—"nb˙¡º•”ÏÛ⁄@elU˙ä™äiŒÈfı=Ï'gfJjêçÄ;ÎL%4Ë{6ˆˆ+"ù}†]!ˆæy3”6Dk~–IÉU4Ò∂pâó€å%ı õ«U+86ö∫¿†0x¶Å"Õ”p·U◊‘_4µ<RI-B0Íƒ≠$êªh!Õ†‘u7"’t%±∏àÑa∞KóË39¸@ªTΩ-‚ $ë¿*Gc4ÎçÊQ¢ÿ*çeP∂É2æòJâ©«ëº
+7àÓD—û([©ô€.&ô›XA*ãâ∂i›r&˙O¶/ïá¢xÃËã%d28¶qº¡ò'Ò‚X|:'N.
+r∏ƒÄ∞°¢ß◊§yi™»@±(zwt.f´GLÿQºu6o∞eΩ‡ãï<ùáY©¡„sTù®ü;N¢"zHÃpÂÙkÁHQm
+pt¨‚¥&àtèÚ@òÖPçíäô
+ ∆‹ ˚Àò(x‹®ﬁlE≥¬õod?x¬:8ÔÇ∑CËá£Î⁄Éiªê@È°˚◊¬Í”ô-”¥KTÁÄV”4ëxhoD≥ñ\È‰åÊä·˜√Ωz.ÖEm∞Ï∂åµà-ZW4]˘H&ÄãØx∂EçåÍ“-ì‘SÛ!¢[c>ö
+ÕÅ7È236yÎ®ò˝Ê±Ÿ
+˙WH.vC‡∫&†˚h¯Í"`≤FÖïb ò•)GÏÅç∂üäí‰îÕåj5©)ÍZ©&ÊûL!LöÙà÷ôV|í~wÄ€ﬁÖ%DÚ””|∫"õùé.H0tà¬≤$ò‘IÄ∞◊;¡ètô&ñkU%™!µîº—´S[¯Y:˘∫i‚¶>b∫9‚˜x€Z`€»‘≈ºGÏ@˘‚(Ç7≠~û˛u$ØºPLX!ë∂X©2zÏp◊LN<˘‹÷∫í’qD:öZ’ƒ—3E%réBëCî	,$/÷åñKº}mﬁË â…û¥JßÙt$,€gKÙq´ƒVG|ô“Ÿ#≥¿óÜH¬¡˝@∞?È-Ñ¿∑køø=¸X5©b—<¨t&ıå¸Ck’ÚANˆ†oÃ1‚ÙBºi)sÌl7Ç†?ìau°™ï<∑—M‘L∑¶π“,U‘1!ãæ¬§®ÕÍ2=mnÀ¥æœ‘p#ãn^”dv„èƒY*÷BﬂﬂIÚÍh.Vg˙~J<`k"D!í†÷‡ﬂòa^!”DZ@+eıu∞ÍÜG∑ﬂı˛Hv®÷¸6¯õ˘ +‘v’ØF&‚‡¢ÄùZu≠€ÿØÙ?$h™iﬁæ≤{bZÛ›√U≠‹=xÓ‰ÊÃaöu™è˛áø˛˝7˛„ﬂ˛ﬂÕˇ∞€˛œ∞-<‡÷∂0x˜`√›”y÷Ò^ÒGœo‰yxOêm¢⁄œ;}%|˛‡E˜Ò=(üÊU∞Ó"Á?ŒÈÆ†ΩèäøÏ˘8¸˛‡E˜Ò¥O?„_ŸNf®Ëû{ø1ˇΩ+T.Úó•˙ë˜Œè6P8úˆŸÓ¬ÓÎGm}^Á+A˜/∫èÔAÒ¸3O@Ú<‚˛]°rYÓqº˝¡ãÓ„Tû~ÊTº`˚√ï3˚Ωg˛Gp8Äw¢¡mÁﬁTOˆ˙JÙ{Ú|˜…ˇ|Ú◊a˘≈gÚ7„˘°¬Òp7√¯õ0„[∆WIçö…ÂYz
+Â¡•UÖx1hŒù¢)5ì"/£f¨Dö“%Ø;É;∆Ö:π∑k◊ú£“ØÆySKP§5ã‘Œ@¢ø¥-˜brü;’`Ü%‹æd•.2ù	Ê≈µMtiËîg≈ZPâ©§ãõ∑C“Öâbÿ¬5˚;•fºy1Îì“ª–¯µd2!Ê∏ñ*ÿML∏o•pDPªŒNobåIÉ˙ÍaÜæñKói°ÌÏèPZã„I0ß¬åıRrbøb´fNXó¡8E¨=ﬁÈô˛^`Ñ2ì„Nl≤Z/Œïbf˛∆Õj'dø'7c	ˆ•<!üÑ€Ej⁄E^úcW#Í–ÇœÈª(*‚çn‘<iYc™ïíRk’¡{'"·Äñnç‹ümô‚2)x‡ yÜ-hﬁÿ0(åã*∫Éùl®=V=óûÛ©^Îöœù÷†Û⁄¬Ä+©\ÉΩÃz-^ên*DÂZﬁa;3!Çy‡`±¯xÎ69{Ëﬁ`k/	có∂çï#êm Ã˜±oÃ GWã)›Ç∞›·Yÿ¬(òú∞Fw ç2Uò`§ÌÎê˙¿⁄B†≤ávÙAlÙ…‰ææPΩâ4 B∞›UWz
+äz%L=ç"*Qƒ LÔ“ËFøÈçB/Tô°!µ’\b◊c,"õDú
+Ï©ÙŸ§›∏tÉXLäú˙\ÏRäËÍ∂Ó!5	EÉ´UpõdK˘°@”—'ÔÉ“su9â&€ÌﬁƒKE†ËB¥dòA;»›±±SÊö*?√ÃI·º#5L\¨∂ÚçÄn+‘R)¢ì]ÙEÏµAú;zªEëö7ÛêXÇQ>F<¬¨ÜøqLxúÖ¯Ÿ†§Z›Ü—”0’;ò•–ój–Œ¢Qzc©/U*©%#Í.î+ÖßÓƒñêV≠˚ùfµé¢3}∫ÄÆÂ„Ö÷¡ YïbÀ÷lÓi≤`*æ@—©0±_ùå{:F≤ìx≤.ó$,¨Ø≥˘óãZ¢”˘ÎÌ15õ7<Zìf§'dJóL“dvYñXÎX{€/FùwVâG‰4“∏ê∏|≤∞Nãû.6âÏõ7ªI
+≥&¸<Ÿª/k•~K∫å4;«Ïå∏O≈AãC/≠Õ2ÖJ˛‚2¸J≠!z<‘KWX+ÜÔ°)S‚Q≈ﬂtõw◊áπ%ı“V>]%¸`:/.µ±Ë·d\vÿpITÒπ¢>NúD¶@à•o´tÏ≥To4’Õ	dJ¿Ä{bã¯]ŸJà™ì#–·4vÖOóéë÷Ë,õg[±:G4‹	ÆÕÕµFjEŸ∂Ó4.öñËôë`Õl≈g∂F©âH&QtèCwi^$äë‹}`¢≈H˛’≠/≈≈&Ú—jECL6ØA{˜.‚√%Cˆ±eã•mÑ— 
+/Y5#Í’›\u†÷G©rÉôç¡3
+ÿ.›U±K÷CΩHZ®¡BÃi<ﬁŒJ‚wˇr˙·Ûo~˙˚èü:˝€?˝Ù˘ßü˛¯i5ˇˆœ’Ò”ˇ>˜B
+endstream
+endobj
+86 0 obj
+<<
+/Pattern 87 0 R
+/ExtGState 88 0 R
+/Shading 89 0 R
+/XObject 90 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font 102 0 R
+>>
+endobj
+87 0 obj
+<<
+>>
+endobj
+88 0 obj
+<<
+/A2 <<
+/CA 1
+/ca 1
+/Type /ExtGState
+>>
+/A1 <<
+/CA 0
+/ca 1
+/Type /ExtGState
+>>
+>>
+endobj
+89 0 obj
+<<
+>>
+endobj
+90 0 obj
+<<
+/P4 91 0 R
+/P5 92 0 R
+/P6 93 0 R
+/P7 94 0 R
+/P0 95 0 R
+/P1 96 0 R
+/P2 97 0 R
+/P3 98 0 R
+/P8 99 0 R
+/P9 100 0 R
+/Vera-minus 101 0 R
+>>
+endobj
+91 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+92 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+93 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+94 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+95 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+96 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+97 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+98 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+99 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+100 0 obj
+<<
+/Length 134
+/Filter /FlateDecode
+/BBox [ -2.5 -2.5 2.5 2.5 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xúmê€Ä Eˇ;\RQÆ‡$∆ò∏ˇØ ZEHHiKÔ°Ì†vbµP20⁄™ÉX;72á⁄Ãa∂90£≥aJÔ|:
+‚EíW<Ç,Ü∞rƒW]∫ﬂ§ ãFÄÚÀªãÃl#’?°°áF” ™˛tçz¥”¢ª¥€√üé2¿F¥“	yÓKK
+endstream
+endobj
+101 0 obj
+<<
+/Length 37
+/Filter /FlateDecode
+/BBox [ -184 -236 1288 929 ]
+/Type /XObject
+/Subtype /Form
+>>
+stream
+xú„240S065U»Â276≥r¿,#s# $ã`Ad” _
+
+
+endstream
+endobj
+102 0 obj
+<<
+/F1 103 0 R
+>>
+endobj
+103 0 obj
+<<
+/FontMatrix [ 0.001 0 0 0.001 0 0 ]
+/FirstChar 0
+/Widths 104 0 R
+/Encoding <<
+/Type /Encoding
+/Differences [ 32 /space 40 /parenleft /parenright 46 /period 48 /zero /one /two /three /four /five /six /seven /eight 67 /C 81 /Q 95 /underscore 97 /a 99 /c /d /e /f /g 105 /i 108 /l /m /n /o /p /q /r /s /t /u /v 121 /y ]
+>>
+/FontBBox [ -184 -236 1288 929 ]
+/Type /Font
+/BaseFont /BitstreamVeraSans-Roman
+/CharProcs 105 0 R
+/LastChar 255
+/Subtype /Type3
+/FontDescriptor 141 0 R
+/Name /BitstreamVeraSans-Roman
+>>
+endobj
+104 0 obj
+[ 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 318 401 460 838 636 950 780 275 390 390 500 838 318 361 318 337 636 636 636 636 636 636 636 636 636 636 337 337 838 838 838 531 1000 684 686 698 770 632 575 775 752 295 295 656 557 863 748 787 603 787 695 635 611 732 684 989 685 611 685 390 337 390 838 500 500 613 635 550 635 615 352 635 634 278 278 579 278 974 634 612 635 635 411 521 392 634 592 818 592 592 525 636 337 636 838 600 636 600 318 636 518 1000 500 500 500 1342 635 400 1070 600 685 600 600 318 318 518 518 590 500 1000 500 1000 521 400 1023 600 525 611 636 401 636 636 636 636 337 500 500 1000 471 612 838 361 1000 500 500 838 401 401 500 636 636 318 500 401 471 612 969 969 969 531 684 684 684 684 684 684 974 698 632 632 632 632 295 295 295 295 775 748 787 787 787 787 787 838 787 732 732 732 732 611 605 630 613 613 613 613 613 613 982 550 615 615 615 615 278 278 278 278 612 634 612 612 612 612 612 838 612 634 634 634 634 592 635 592 ]
+endobj
+105 0 obj
+<<
+/seven 106 0 R
+/C 107 0 R
+/eight 108 0 R
+/Q 109 0 R
+/o 110 0 R
+/n 111 0 R
+/m 112 0 R
+/period 113 0 R
+/i 114 0 R
+/g 115 0 R
+/f 116 0 R
+/e 117 0 R
+/d 118 0 R
+/c 119 0 R
+/a 120 0 R
+/parenleft 121 0 R
+/y 122 0 R
+/space 123 0 R
+/u 124 0 R
+/t 125 0 R
+/zero 126 0 R
+/four 127 0 R
+/q 128 0 R
+/two 129 0 R
+/six 130 0 R
+/five 131 0 R
+/l 132 0 R
+/v 133 0 R
+/three 134 0 R
+/s 135 0 R
+/r 136 0 R
+/parenright 137 0 R
+/one 138 0 R
+/p 139 0 R
+/underscore 140 0 R
+>>
+endobj
+106 0 obj
+<<
+/Length 68
+/Filter /FlateDecode
+>>
+stream
+xú336S0P∞0¶¶Ü
+ÊFñ
+)Ü\@>àïÀÀ≥Ã,ÃÅ,#êñ.Cc0mbl§`fbdY 1 ∫“ r¯ë
+endstream
+endobj
+107 0 obj
+<<
+/Length 232
+/Filter /FlateDecode
+>>
+stream
+xú5Q;r1Î}
+] 3Êoüg3ØJÓﬂF∞ìfa		Á=ÿàƒó“ÂäoYùf~'ãº¯Y)úºQÅTEX!Ì‡YŒjÜ¡s#S‡r&>ÀÃ'”b«™â8Œéúf01çÎh9fö=!◊#nÏ4ÀUiΩ[™◊˜Z˛SE˘»∫õÂ÷)õZ©[Ùå=âÀŒÎ©-Ì£é‚¶ “·cá˜ _ƒú≈E'“Õ~3Â∞í4ß#1îÍŸ·5¬ƒœåOŸ”È}îÜ◊>h∫æw/Ë»ÕÑLÂ H≈ìï∆ò1TøÕ$ı˝?–≥>ö0TG
+endstream
+endobj
+108 0 obj
+<<
+/Length 392
+/Filter /FlateDecode
+>>
+stream
+xú=RKn1€œ)∏@•Mrû©ﬁÓ›[õÃT™
+/∂1îó©%?Ííà3L~ır]‚QÚΩljgÊ!Ó.6¶¯Xr_∫Üÿr—öb±O…/»¥TX°V›£CÒÖ( -‡Å·æˇÒ®¡◊∞Ör√{d`J‘n@∆C—HYAa˚ëË§PØl·Ô( W‘¨Ö°tbàñ )æ´âò®Ÿ†áÑïí™“Òå§[¡]âaP[[€xf–Ÿﬁëç3Ì—qYk?=È£Q2µQMg|Ò›2RÛ—Ë§“»› CgœB'`$ÊIòÁp#·û€A1ÙqØñOl˜ò)Vë; Ω˝ﬁíçœ{‡,å\€ÏL'—iß≠æb˝É?lKõ\«+áE®º(~◊Aq|X≈˜d£Dw¥÷#’h%¬ŒÌ0Úx∆yŸﬁ¥ÊÙDh£D‘é=(≤≈Âú∞ß¸¨Õ±û&{o¥èîÃÃ®Ñ‘vz®∂œc‘wû˚˙¸. °
+endstream
+endobj
+109 0 obj
+<<
+/Length 251
+/Filter /FlateDecode
+>>
+stream
+xú5Q;r1Î}
+.∞3c∞œÛ2©í˚∑ë €,Z>B¬yR¶ÏêGÌH.ïtì/Î∫Dò¸éeV»bK¨-fKˆ1˘=*cSå+ú KvËΩ5£®êÂö4©Ù§ù‰6cuÉ§€cFÑe2ˆ
+".eEp¶eëÑBõ”‰µÇ Ç§O¸-«?c˚z°cËQ%2/‰ZóAú!tz°Q∏HŒgWŸÑ_ÿˆ#Á"‡`'olNôˇ˙<Ø†∫≥ªc±ù„9·ˆˆ[p#Vﬂ(¥3´É˝=ìsﬂè§åΩÖ»òQá0\ÎÃ˜≤¯r9Hœÿó˘åÔ?k‘bÓ
+endstream
+endobj
+110 0 obj
+<<
+/Length 214
+/Filter /FlateDecode
+>>
+stream
+xú=PªC1Î=‰Œ|Ì7œÀ•À˛m$ú§B6BîöL…îá: í¨)O>KbáºáÂnd6%*E/ì∞%˜–
+Ò}âÊ˜›’ñ≥C4óh9~3*™”K6öp*∫†‹√3˙mtVá±[ –§`◊∂ r«¡ôã"JMˇ≠r˜R‹Ô=o¢àîtÆ˘ÂÙÀœ-ºN=éD∫Ω˘äkq¶:
+DpFjÚäta≈≤»C§’5=kµ Æﬁz˘7hGtÄÏâ„4•Cˇ÷∏«ÎáäRÙ
+endstream
+endobj
+111 0 obj
+<<
+/Length 161
+/Filter /FlateDecode
+>>
+stream
+xúEêK√ C˜úBGG|ût∫JÔø≠!M≥Äß±@w'©µ—/mK∫>[	Œ∆xË6n5‰uÄV§„hîR}π≈iïtÒh6s+≠fzî£†:ﬁÌ¢‰r¶ÓŒ˘Gpı_ıG±ÓúÕƒ¿dÂÑfı)Ó|õQ]›d“cn÷kˆ™∞¥¨•ÂÑ€Œ]3†Ó©Ì˝©s:Ñ
+endstream
+endobj
+112 0 obj
+<<
+/Length 255
+/Filter /FlateDecode
+>>
+stream
+xúEëKí D˜ûÇ#Ä¸‰<ôöUrˇÌ4òL6vó®˝ÑJ#¶,Áy0˝»ÚÕd∂Èµ´ùçä"Ã‰*ÙXÅ’ù)‚ÃµDµı±2r‹ÈÉ‚ÁÆúT≤∏Q∆:™:8¶Á ˙™Ó¸∏, æ#á2l÷96pÂ∂aå£ÕVwá˚Dêßì©£‚vêl¯Éì∆æ ’∏N6˚Í%Ç~°	LÚM†uÜ@„Ê)zr	ˆÒqªÛ@∞∑º	§l‰»åAªNÆqÎ¸ﬁˇ:√ùÁ⁄WéwÒ;Lkª„/1…äπÄEÓ‘Û=≠ÎÔ…ôcr”}CÁ\∞À›A¶œ¸Î˜Päfà
+endstream
+endobj
+113 0 obj
+<<
+/Length 49
+/Filter /FlateDecode
+>>
+stream
+xú36¥P0P040íFÜ@ñëâBä!H ƒÃÂÇ	ÊÄY@¢8Æ&á+ ∆Ë&
+endstream
+endobj
+114 0 obj
+<<
+/Length 68
+/Filter /FlateDecode
+>>
+stream
+xú32∑P0P∞4Ü&
+Êf
+)Ü\@æ©âπB.Hƒ ≥Ä¥%úÇà[B4AîÇX•f&fI8"ó …¥Â
+endstream
+endobj
+115 0 obj
+<<
+/Length 338
+/Filter /FlateDecode
+>>
+stream
+xúERKr≈0€Á\ 3Êg„ÛºNWÈ˝∑ïp:›<Ù	2=eH¶‹6ñdÑ‰Ú•Wdà’êüFéDƒﬂ)°¿ÆÚπºñƒ\»nâJÒ°?ó•72ÕÆ–™∑Gß6ãF5+#Á CÑzVËÃÓQ€d√Îv!È:Sáp,ˇC≤îu )îmAﬂÿ#Ëo<‹≥Êr≥πLnıøÓ[û◊:[±m@	ñsﬁ` ƒ√	⁄ ƒ‹⁄ﬁ)(U∫äI¬≠Ú\';P∂–™tº7Ä9`√í≠◊ho √>Ù¢F≈ˆ†®, ˛ŒŸf¡ﬁ1…H∞'ÊN=q:≈ëpI8∆@ä≠‚∫Òÿ‚/Æàö	u:eMº¬û⁄‚«BìÔRq"n]EµlOÁ	¥?*í3b§ƒ—	ë‘íŒóı–˚∏âØçƒÊûæ›?¬9üÎ˚∏É‡
+endstream
+endobj
+116 0 obj
+<<
+/Length 133
+/Filter /FlateDecode
+>>
+stream
+xúMèA√0Ô~ÖûÄ±ÛûtzJ˛-ê6ÓÌåÄëÜ0<bÎ0%ºz˚·U§Kp6é˘%E<j‹TGcäù¯ÿ›°Ï•‚ÈMãÎs”¥§t7Q*mΩù»¯¿}üﬁU∂$ùÇ[ÍÑ.—$ÚEsÿT0œÍ∆KKèßÌŸﬁf>3◊
+endstream
+endobj
+117 0 obj
+<<
+/Length 245
+/Filter /FlateDecode
+>>
+stream
+xúEPªçC1Î=`˝,{ûwHï€ø=JFpÖ!Z?íZòà¿K±îo‚GFA=øÖ‚3ƒœÖAŒÑ§@úıôxÜ⁄FnËvpŒº√3å9≈Zp¶”ôˆ\ÿ‰ú'ŒmîÒåB∫ITqTüqLÒ™≤œç◊Å•µl≥”ëÏ!çÑKI%&ó~S*ˇ¥)[*Ë⁄E∞H‰ÅìM4·,?CíbÃ†îQ˜0µéÙq≤ëGu–…Ÿú9-ôŸÓßÌL|X&ôQÂ)ùÁ2>'©Û\N}Ó≥—‰¢•U˚ú˝ﬁëñÚ"µ€°’ÈW%Qôç’ßê∏<ˇåüÒ˛é†Y>
+endstream
+endobj
+118 0 obj
+<<
+/Length 227
+/Filter /FlateDecode
+>>
+stream
+xú5O;≤!Î9Ö.êåm`œ≥ôT/˜oüd≤˛HÚÙDG&^Ê»¨ŸÒ∂à¯SÒØ=Ì√ÑÍ=∏áÂ‚Bòa$ú5Î∏õß„≈ø]Â3÷¡ªæbñ∂0ìıï≈ôÀv¡X'qN≤c◊Dlc]ÎÈ÷L(!ùÌ0%»)}≤£å9:N‰âÁb™≈.øÔa}¡¶1¢¬WO–dPñ=Ô&†Ùﬂ’çﬂI4ã^2ë`aù$ÊŒYN¯’kG«Qã"1'§‰2“úÆb
+°	≈:;
+*óÍs ›>ˇh][M
+endstream
+endobj
+119 0 obj
+<<
+/Length 230
+/Filter /FlateDecode
+>>
+stream
+xú5QIn√0ºÎÛÅ ‚.ø«AOÌˇØ“	``hKúÕxâ¡œA‰∆[÷åö¯õ…]Òª<	∑Ç'Q^Ü{Ÿ	.oó˝8Ã|^Z9ìO2 ŸÙD»`ó@Ë¿Ï‘aõi'˙ÜÑœéH5YN_K–K´(OŸ~ßJ¥≠ÍœÌ≥.¥ÌkO8ŸÌ©'ïO û[≤óçWLcÙDÂ.≈ÙA™≥ÖûÑÚ¢|≤˘®!]¢úÅ'£@;∞Á∂üâWÖ†uuü∂ç°)Oˇ645I"‰%úŸ“∏[¯˛û{˝¸¶TSü
+endstream
+endobj
+120 0 obj
+<<
+/Length 304
+/Filter /FlateDecode
+>>
+stream
+xú=í;í√0C{ùÇ»å¯ì‰Ûd'ï˜˛Ì>2…VÄIâ (/uô≤¶< i&	ˇ—··b;ÂwÿûÕÃ¿µD/À)œ°+ƒ‹E˘≤ôç∫≤:≈™√0ù[Ù®úãÜMìöÁ*K∑û√µâÁñ}ƒ74®uçK¬›’hY
+Õpuˇ;ΩGŸw5<õTÍ‘èQÊ˘!O¢áÈJ‚|<(!\{0F‰S—@é≥\≠Ú^Bˆ∑≤¬AjIÁ≥'<ÿuzO.nÕdπT¯NQÏÌ–3æÏJ	=∂·XÓ};ö±Èõ8Ï~ÔF÷ åÆh!~»W'Î%`‹S&EdN∂Xnã’ûÓ°(¶sÜs ÍŸäÜRÊbW´;o,/Ÿ,»îÃ2FßMû8x»~çöÙyïÁx˝lÛs;
+endstream
+endobj
+121 0 obj
+<<
+/Length 147
+/Filter /FlateDecode
+>>
+stream
+xú=Oπ1Î=8¿z,[Û\êÍ≤ FR"@ÒëeG«
+\bìé9/i?¯iÅX5GÙÑäaX‡níÉ,JWû-^ë⁄B]H¯÷ﬁ≠Ld¢<Ø;p'£>TYz@;DYÆI√X’V]jù∞≤Œ¬u=Ã™Â—'k)PTBΩtˇü{⁄˚ o/Î
+endstream
+endobj
+122 0 obj
+<<
+/Length 138
+/Filter /FlateDecode
+>>
+stream
+xú=èA1ÔyÖ?)vBXﬁ≥UO€ˇ_Kö›^–å1BCo®jõÇ«ã•K®÷)äâJ»ô`•§“gëzb8‹¥Œ‚±È˙ªíV}–ÊF∫%hÇGÏSi‹ñqƒ5Í)Í\£ºπü©Wÿ4í›¥≤ík8¶ﬂΩÁ©Îˇ”Uﬁ__ﬂ.å
+endstream
+endobj
+123 0 obj
+<<
+/Length 17
+/Filter /FlateDecode
+>>
+stream
+xú36¥P0Ä√C. îÏ
+endstream
+endobj
+124 0 obj
+<<
+/Length 163
+/Filter /FlateDecode
+>>
+stream
+xúMê;√0CwüÇ Í„œyRtjÔøVr†É¡ ê(usf‡†!ºﬁ¿ã-e«∑†¨O„¯'Â∫â}Ä˘ã∫†í*Ü≥©∆ÄF†;tıí≥ô{ÅM√Xp§§Ô∂@'<,õŸVµQï∞{ÏìÓ"I≠⁄£”åÅgÌ∞∞ªõO„µ¶¶_ö)Èõÿ3ò∑HõBdàZ ˜qÍg{ˇ ?Î83
+endstream
+endobj
+125 0 obj
+<<
+/Length 131
+/Filter /FlateDecode
+>>
+stream
+xúEèÀ!CÔT·Ú>©á’ûÿ˛ØÎ0öAB¯A";Ò0¨ÛÚ6–≈—¢√7˛6’´cï,∫zRVÈêáºÚPi0QƒÖYLCaŒò »ñ2∑·∂MÉ¨lïT≠Év<∂ße´~©maÍ,Ò¬U^∏«?êK≠wΩUæBS0ó
+endstream
+endobj
+126 0 obj
+<<
+/Length 210
+/Filter /FlateDecode
+>>
+stream
+xú5PÀC1ªg
+®ÅdûVΩuˇkm–;aˇBX»îy©…Œ)ÈK>:L∂.ø±"≠u%Ï ö û+Ô°ô≤±—ÿ‚`p&^Ä7`Ëiç5t·Ç¶.ïBÅ≈%ô|u{ËæOxjrvC…`	j∫MX¥<üêN‚ˇ~√Ó-‰°íÛ û˘úÌ;≥n·'jv"—r2‘≥4«E<yE¶p‚≥÷w’4‘fNñÆN?å `"^YÄÏÆD9K“é•üoº«˜@ S¥
+endstream
+endobj
+127 0 obj
+<<
+/Length 90
+/Filter /FlateDecode
+>>
+stream
+xúMçA¿ Ôº"OPD–ˇtz“ˇ_´‘Ω¿NâEÇÙ5jK0Ó∏2kP)òîó¿U0\⁄Ó¢ ˛2ILùÜ”{∑É≤ÒqÉ“I˚ˆqz ´˝z›“"X
+endstream
+endobj
+128 0 obj
+<<
+/Length 237
+/Filter /FlateDecode
+>>
+stream
+xúMQ9n1Î˝
+}` Î¥Á=l5˘Rﬁ©DCI…Â)S2Â≤π$#$k óç-∂\æBSKE¡‘ΩEu…kò¶¨[,]–Û©,Ø·‡{w7‘?ÙàŸë—Ç]aÅê;∏`¯={&lS"Q%‘`ö∞¬ÆDAcù•
+ÉSıwï„≥;÷fS§GRùtÉÊÖ∑ﬁr!Ç≠Sπ©7“Ñ‹Ÿßbe„æJó„‡`¢ÀDdƒÊe8ûahŒ4`Ö≥ƒô÷ë“ãôë17È»’Wãäœ6Kû—ˇˆá˙+ünˇÉ|∆˚IU\~
+endstream
+endobj
+129 0 obj
+<<
+/Length 248
+/Filter /FlateDecode
+>>
+stream
+xú-Q9íAÀÁzBs”Ô±Àë˜ˇÈ
+ ÉÜC :-qP∆Oñ+ﬁÚ»U¥·Ôô¡w¡°ﬂ u9H“TM®]ºΩvfÛ§5,ÉÎ?c
+7zqxL∆ŸÌu5{◊kOfP2+q…ƒSuÿ»ô√O¶åÌ\œ»π÷e§õï∆åÑ#M!RH°Í&©3Aê£´Q£ç≈~ÈÀ#ùaU#j˚\K€◊sŒ4;´<9•GWúÀ…≈+˝ºÕ¿ET´<pø€C˝úÏ‰7ﬁ“π≥≈Ù¯^s≤º0XÒÊµêMµ¯7/‚¯=„Î˘¸®•[
+endstream
+endobj
+130 0 obj
+<<
+/Length 317
+/Filter /FlateDecode
+>>
+stream
+xú5RKrC1€øSpÅŒòø}ût≤jÓø≠Ñ'+∞-@B./Y“K~‘%€•√‰W˜%±B>èÌöÃR≈˜≥œ-ØGœ∑-
+Q=¯2'"‘œ‘Ë:xaó>ØN)xì Ø·_xîNÉ¿;2ﬁìë$¡öKãMHî=I¸+Âı§ï4t~&+s˘{r©j£… Xπÿ§+)$=âH≤rΩ7VàﬁêWí«g%&›&±M¥¿„‹ï¥ÑôòBÊXÄ’t≥∫˙LX„∞ÑÒ*a’ÉMû5©Ñf¥écd√x˜¬LâÖÜ√Põ}ï	™óè”‹	#¶GMvÌ¬≤[6Ô!D£˘3,î¡«($áNc$
+“∞ÄÅ9Ω∞äΩÊ9¿àeùö,mh%ªzéÖ¿–ú≥•a∆◊û◊Û˛E[{£
+endstream
+endobj
+131 0 obj
+<<
+/Length 247
+/Filter /FlateDecode
+>>
+stream
+xúMQªmD1Îﬂ\‡ ÎkyûR]ˆoC…ê¬ °/)ß%ˆ∆K·[æ‰ëUC?1Ï3,=…‰‘?Êπ…Tæ™õòPb·˝hºt/"+ ﬂèesŒ˜‡£ó`&4`¨oI&’º3d¬â°é√AõTwM,ÆÕ3»ÌV7≤:≥ lx%‚∆ DŸêÕ`£å±ïê≈r®
+íZ`◊ÈQãÇ+î÷	t¢÷ƒ∫Ã‡´Áˆv7C/Ú‡®∫x}ÎK∞¬Ë•{,|ÆBÃÙL;wI#Ω¶fRôùëï:=b}∑@ˇüe+¯˚…œÛ˝(\*
+endstream
+endobj
+132 0 obj
+<<
+/Length 45
+/Filter /FlateDecode
+>>
+stream
+xú32∑P0P∞4Ü&
+Êf
+)Ü\ñV.L,Ã—ñp
+"û ü}µ
+endstream
+endobj
+133 0 obj
+<<
+/Length 72
+/Filter /FlateDecode
+>>
+stream
+xú5å±¿0{¶–6X`ÔìKEˆoC|N/ó¢¡Z∫Ç#pu©¸—#]π)EócŒÇ·q™_H1F=®#„ﬁ«Oπ_p}
+endstream
+endobj
+134 0 obj
+<<
+/Length 338
+/Filter /FlateDecode
+>>
+stream
+xú5R9Æ›@Î}
+] ÄvÕúÁ©~ÓﬂÜî_
+C¥Väöéïi˘e!U-ì.øÌImâÚ˜…
+âíW%⁄•ëP˘<ÖTøgÀºæ÷ú Kï
+ììí«%˛óﬁ.Áck?è#w=z`UåÑÀ£kY:ª√öç¸<¶?‚rÆX∑cH∫q⁄ÔCÛy» fòñä
+]Vâ~AÒ†G≠}˜XTX —ÌIpåçPëÄvÅ⁄H9≥ª®/˙Yîò	tÌã"Ó¢¿IÃúb]:˙>t,®ø6„ÀØéJ˙H+kL⁄w£IiÃ"ìÆóEo7o}=∏@Û. ^Õ AS÷(i|–™ùc(öeÖwö4«áÃ<á3îÙ}(~_K&∫(ë?°_£åúos—ü∂äÒŸaØ`Ö“≈ö‰}@*z`˙ˇ◊¯y˛¸∂ÄT
+endstream
+endobj
+135 0 obj
+<<
+/Length 332
+/Filter /FlateDecode
+>>
+stream
+xú-R9é$1À˝
+~` ÎÚÒûL‘˚ˇtIU™lÀ<‰r√D%~,ê€Qk‚◊Ff†¬Ø´ÃÖÔH€»:àk»E\…ñ¬gD,‰1ƒ<ƒÇÔ€¯˘¨Ã…≥∆/Ÿ˜VÏ©	ÀB∆ã3¥√*é√*»±`Î"™{xS§√©$ÿ„ãˇ>≈sÇæ#h¿/˘Á´#xæ§E⁄=f€¥[ñiGïñÉÌiŒÀ‰KÎ,W«„˘ Ÿﬁ;BjWÄ¢0w∆y.é2meDkagÉ§∆≈ˆÊÿè•]Ë∆e§8˘ô*¬JöÃl¢ ˛»È!ß2¶ÆÈJ'∑QwÍ…\≥πºùI2[˜EäÕŒÎ¬ôıwò2´Õ;yñ•NE¯{∂ù„ÍŸkôÖF∑9¡+%|6vzrÚΩöY…©HH”∫
+N£»Kÿñ¯öäö“‘Àﬂó˜ˇ3‚|
+endstream
+endobj
+136 0 obj
+<<
+/Length 157
+/Filter /FlateDecode
+>>
+stream
+xúEêπC1DsUA	∞Í±«—wˇ©˘J¥o -áØ%S™'"¶‹◊hÙ0yüM%V,ÿ&∂ìrAJ1òxN1´£∑°ôá‘Î∏®™∏ufï”iÀ ≈ÛhW3ì=¬5Í'MË¯ü<¥©Ë[†Øî}@µ8ùIP1}ØbÅ£úv"ú‡>Gô)#qbn
+Ï˜ fæW∏∆„›7y
+endstream
+endobj
+137 0 obj
+<<
+/Length 149
+/Filter /FlateDecode
+>>
+stream
+xú5èK!C˜9Ö/0R~Ñp™Æ¶˜ﬂ6aZ		€/¡ÉëåKL`Ïòc·%TO≠>$#è∫I9©P7OhL3l“% tﬂ2û[ºúVÍÇNH‰È¨6¢åf^√—SŒ
+õ˛À‹$jeFô2ÎT∑≤≤`Êµ<˜3Ó®\ËÑáù ∞ËN1¢‹fF~ˇ€Ù˛{20c
+endstream
+endobj
+138 0 obj
+<<
+/Length 80
+/Filter /FlateDecode
+>>
+stream
+xúEåª¿0D{¶`~&fü(ï≥ J‹pO∫{∏:2SﬁaÜáû,ÜSÒô£`5∏FRçùÏ£∞n_uÅÊzS´ı˜*Ovvq=ÕÀÙ
+endstream
+endobj
+139 0 obj
+<<
+/Length 236
+/Filter /FlateDecode
+>>
+stream
+xúMPKnD!€sä\‡I$!ŒC’UÁ˛€±√TÌ*ÜHÈ≤UÎSbuâÏÚ•Mó 2y®ÂO€ˇQnˇ–»A¥∑åùbÊ÷≈¬$<Â4#'◊,è;OfÖ∆ƒç„ù.`ü5[ïÕÅ9m:7@∫ê∑™≥ﬁdP"ÍBÕì.úß—óà9û®`Jw&µê\>’°qZΩ
+πcãìoƒY°¿a–Lq÷_÷®…≤Y» IÜ!Œ}£{î
+ç® y+¬ì°ıÜ’†ïπÖ¢©Âí¸⁄0∂åuÈJÅ™ ¡ﬂ*ß}ø$ç]S
+endstream
+endobj
+140 0 obj
+<<
+/Length 52
+/Filter /FlateDecode
+>>
+stream
+xú350P0P–µT–526U05≤ÕLRπ‡Ï\$ü√S	aÅ§s*s∏“ Tó
+endstream
+endobj
+141 0 obj
+<<
+/FontBBox [ -184 -236 1288 929 ]
+/StemV 0
+/Descent -236
+/XHeight 547
+/Flags 32
+/Type /FontDescriptor
+/FontName /BitstreamVeraSans-Roman
+/Ascent 929
+/ItalicAngle 0
+/MaxWidth 1342
+/CapHeight 730
+>>
+endobj
+xref
+0 142
+0000000000 65535 f 
+0000056501 00000 n 
+0000056592 00000 n 
+0000056632 00000 n 
+0000056831 00000 n 
+0000057031 00000 n 
+0000057231 00000 n 
+0000057450 00000 n 
+0000057499 00000 n 
+0000073837 00000 n 
+0000073880 00000 n 
+0000073993 00000 n 
+0000074101 00000 n 
+0000090353 00000 n 
+0000106605 00000 n 
+0000112366 00000 n 
+0000112599 00000 n 
+0000112781 00000 n 
+0000112963 00000 n 
+0000133769 00000 n 
+0000133918 00000 n 
+0000133940 00000 n 
+0000134040 00000 n 
+0000134062 00000 n 
+0000134285 00000 n 
+0000134550 00000 n 
+0000134815 00000 n 
+0000135080 00000 n 
+0000135345 00000 n 
+0000135610 00000 n 
+0000135875 00000 n 
+0000136043 00000 n 
+0000136308 00000 n 
+0000136573 00000 n 
+0000136838 00000 n 
+0000137103 00000 n 
+0000137368 00000 n 
+0000137633 00000 n 
+0000137898 00000 n 
+0000138163 00000 n 
+0000138428 00000 n 
+0000138693 00000 n 
+0000138726 00000 n 
+0000139257 00000 n 
+0000140310 00000 n 
+0000140787 00000 n 
+0000140927 00000 n 
+0000141232 00000 n 
+0000141697 00000 n 
+0000142021 00000 n 
+0000142308 00000 n 
+0000142542 00000 n 
+0000142870 00000 n 
+0000142991 00000 n 
+0000143131 00000 n 
+0000143367 00000 n 
+0000143778 00000 n 
+0000143984 00000 n 
+0000144302 00000 n 
+0000144602 00000 n 
+0000144905 00000 n 
+0000145215 00000 n 
+0000145592 00000 n 
+0000145812 00000 n 
+0000145958 00000 n 
+0000146169 00000 n 
+0000146328 00000 n 
+0000146488 00000 n 
+0000146577 00000 n 
+0000146813 00000 n 
+0000147017 00000 n 
+0000147300 00000 n 
+0000147462 00000 n 
+0000147783 00000 n 
+0000148173 00000 n 
+0000148493 00000 n 
+0000148637 00000 n 
+0000149048 00000 n 
+0000149453 00000 n 
+0000149846 00000 n 
+0000150076 00000 n 
+0000150298 00000 n 
+0000150450 00000 n 
+0000150759 00000 n 
+0000150883 00000 n 
+0000151098 00000 n 
+0000165145 00000 n 
+0000165295 00000 n 
+0000165317 00000 n 
+0000165417 00000 n 
+0000165439 00000 n 
+0000165592 00000 n 
+0000165857 00000 n 
+0000166122 00000 n 
+0000166387 00000 n 
+0000166652 00000 n 
+0000166917 00000 n 
+0000167182 00000 n 
+0000167447 00000 n 
+0000167712 00000 n 
+0000167977 00000 n 
+0000168243 00000 n 
+0000168412 00000 n 
+0000168447 00000 n 
+0000168974 00000 n 
+0000170028 00000 n 
+0000170498 00000 n 
+0000170639 00000 n 
+0000170945 00000 n 
+0000171411 00000 n 
+0000171736 00000 n 
+0000172024 00000 n 
+0000172259 00000 n 
+0000172588 00000 n 
+0000172710 00000 n 
+0000172851 00000 n 
+0000173263 00000 n 
+0000173470 00000 n 
+0000173789 00000 n 
+0000174090 00000 n 
+0000174394 00000 n 
+0000174772 00000 n 
+0000174993 00000 n 
+0000175205 00000 n 
+0000175295 00000 n 
+0000175532 00000 n 
+0000175737 00000 n 
+0000176021 00000 n 
+0000176184 00000 n 
+0000176495 00000 n 
+0000176817 00000 n 
+0000177208 00000 n 
+0000177529 00000 n 
+0000177647 00000 n 
+0000177792 00000 n 
+0000178204 00000 n 
+0000178610 00000 n 
+0000178841 00000 n 
+0000179064 00000 n 
+0000179217 00000 n 
+0000179527 00000 n 
+0000179652 00000 n 
+trailer
+<<
+/Size 142
+/Root 7 0 R
+/Info 2 0 R
+>>
+startxref
+179868
+%%EOF
